@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-tizita-diaspora",
+          title: "Tizita Diaspora",
+          description: "diaspora memory interview project.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
