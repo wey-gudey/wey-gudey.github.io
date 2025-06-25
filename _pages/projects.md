@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Tizita Diaspora
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: diaspora memory interview project.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
