@@ -4,7 +4,7 @@
 <img src="./images/photo.jpg" alt="Your Name" class="profile-photo">
 </div>
 
-## Hello! I'm [Your Name]
+## Hello! I'm [Eden Mekonen]
 
 Welcome to my personal website! I'm a [your profession/role] passionate about [your interests].
 
