@@ -1,0 +1,76 @@
+name: Convert Markdown to HTML and Deploy
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+      
+      - name: Create output directory
+        run: mkdir -p _site
+      
+      - name: Convert Markdown to HTML
+        run: |
+          # Copy about.html as index (landing page)
+          cp about.html _site/index.html
+          
+          # Convert projects (main language)
+          pandoc content/projects-main.md -o _site/projects-main.html \
+            --from markdown+raw_html \
+            --template=./template.html \
+            --metadata title="Projects" \
+            --metadata page="projects-main"
+          
+          # Convert projects (alternative language)
+          pandoc content/projects-alt.md -o _site/projects-alt.html \
+            --from markdown+raw_html \
+            --template=./template.html \
+            --metadata title="Projects" \
+            --metadata page="projects-alt"
+          
+          # Convert CV
+          pandoc content/cv.md -o _site/cv.html \
+            --from markdown+raw_html \
+            --template=./template.html \
+            --metadata title="CV" \
+            --metadata page="cv"
+      
+      - name: Copy static files
+        run: |
+          cp styles.css _site/
+          cp -r images _site/ 2>/dev/null || echo "No images folder found, skipping"
+          cp about-options.html _site/ 2>/dev/null || echo "No about-options.html found, skipping"
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+

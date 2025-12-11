@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Page Options Comparison</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 40px 20px;
+            background: #f5f5f5;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #7f8c8d;
+            font-size: 1.1rem;
+        }
+        
+        .comparison-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .option-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        
+        .option-header {
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        
+        .option-a .option-header {
+            background: #2c3e50;
+        }
+        
+        .option-b .option-header {
+            background: #34495e;
+        }
+        
+        .option-header h2 {
+            margin: 0 0 10px 0;
+            font-size: 1.8rem;
+        }
+        
+        .option-header .badge {
+            background: rgba(255,255,255,0.3);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            display: inline-block;
+        }
+        
+        .option-content {
+            padding: 30px;
+        }
+        
+        .preview-box {
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            background: #fafafa;
+            margin-bottom: 20px;
+            min-height: 400px;
+        }
+        
+        .preview-box h3 {
+            margin-top: 0;
+            color: #2c3e50;
+            font-size: 1.3rem;
+        }
+        
+        .mini-profile {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .mini-photo {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: #7f8c8d;
+            margin: 0 auto 10px;
+        }
+        
+        .mini-timeline {
+            margin-top: 20px;
+        }
+        
+        .mini-timeline-item {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 15px;
+            padding-left: 10px;
+            border-left: 3px solid #3498db;
+        }
+        
+        .mini-dot {
+            width: 12px;
+            height: 12px;
+            background: #3498db;
+            border-radius: 50%;
+            margin-top: 5px;
+            flex-shrink: 0;
+        }
+        
+        .mini-timeline-content {
+            background: white;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            flex: 1;
+        }
+        
+        .mini-timeline-date {
+            color: #3498db;
+            font-weight: 600;
+            font-size: 0.8rem;
+        }
+        
+        .mini-progress {
+            background: #f0f0f0;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            border-left: 3px solid #a855f7;
+        }
+        
+        .mini-progress-bar {
+            background: #e0e0e0;
+            height: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+        
+        .mini-progress-fill {
+            background: #3498db;
+            height: 100%;
+            width: 60%;
+        }
+        
+        .features-list {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
+        }
+        
+        .features-list li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+        
+        .features-list li::before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #2ecc71;
+            font-weight: bold;
+        }
+        
+        .best-for {
+            background: #e8f5e9;
+            border-left: 4px solid #2ecc71;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+        
+        .best-for strong {
+            color: #27ae60;
+        }
+        
+        .file-info {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+            font-size: 0.9rem;
+        }
+        
+        .file-info code {
+            background: #ffe082;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+        }
+        
+        @media (max-width: 900px) {
+            .comparison-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Choose Your About Page Style</h1>
+        <p>This template offers two options for your homepage. Pick the one that works best for you.</p>
+    </div>
+
+    <div class="comparison-container">
+        <!-- Option A -->
+        <div class="option-card option-a">
+            <div class="option-header">
+                <h2>Option A</h2>
+                <div class="badge">DEFAULT - Currently Active</div>
+            </div>
+            <div class="option-content">
+                <div class="best-for">
+                    <strong>Best for:</strong> Showcasing PhD progress with milestone tracking and bio information
+                </div>
+                
+                <div class="preview-box">
+                    <div class="mini-profile">
+                        <div class="mini-photo"></div>
+                        <h3>About Me</h3>
+                    </div>
+                    
+                    <p style="font-size: 0.9rem; color: #666; text-align: center;">
+                        Your bio text goes here with multiple sections...
+                    </p>
+                    
+                    <div class="mini-progress">
+                        <strong style="font-size: 0.9rem;">PhD in Computer Science - Year 3 of 5</strong>
+                        <div style="font-size: 0.85rem; color: #666; margin: 5px 0;">University Name | Expected 2026</div>
+                        <div class="mini-progress-bar">
+                            <div class="mini-progress-fill"></div>
+                        </div>
+                        <div style="font-size: 0.85rem; color: #666; margin-bottom: 10px;">Overall Progress: 60%</div>
+                        <div style="font-size: 0.85rem; line-height: 1.8;">
+                            <div style="color: #27ae60;">✓ Coursework - Completed</div>
+                            <div style="color: #27ae60;">✓ Qualifying Exams - Passed</div>
+                            <div style="color: #27ae60;">✓ Research Proposal - Approved</div>
+                            <div style="color: #f39c12;">⚡ Dissertation Research - In Progress</div>
+                            <div style="color: #7f8c8d;">◯ Publications (2 of 3 required) - In Progress</div>
+                            <div style="color: #7f8c8d;">◯ Dissertation Defense - Upcoming</div>
+                        </div>
+                    </div>
+                    
+                    <h4 style="margin-top: 20px; color: #2c3e50; text-align: center;">Contact Information</h4>
+                    <div style="font-size: 0.85rem; text-align: center; color: #666;">
+                        Email • LinkedIn • GitHub
+                    </div>
+                </div>
+                
+                <h3>Features:</h3>
+                <ul class="features-list">
+                    <li>Profile photo</li>
+                    <li>Bio sections</li>
+                    <li>Optional PhD progress tracker with milestones</li>
+                    <li>Visual progress bar</li>
+                    <li>Contact information</li>
+                </ul>
+                
+                <div class="file-info">
+                    <strong>📁 File to edit:</strong> <code>about.html</code>
+                    <br><br>
+                    Located in the root of your repository (not in content folder). Edit the HTML directly - it has clear comments showing you what to change.
+                </div>
+            </div>
+        </div>
+
+        <!-- Option B -->
+        <div class="option-card option-b">
+            <div class="option-header">
+                <h2>Option B</h2>
+                <div class="badge">Simple Alternative</div>
+            </div>
+            <div class="option-content">
+                <div class="best-for">
+                    <strong>Best for:</strong> Clean, simple bio without timeline or progress tracking
+                </div>
+                
+                <div class="preview-box">
+                    <div class="mini-profile">
+                        <div class="mini-photo"></div>
+                        <h3>About Me</h3>
+                    </div>
+                    
+                    <div style="padding: 20px; font-size: 0.9rem; color: #555; line-height: 1.8;">
+                        <h4 style="color: #2c3e50;">Hello! I'm [Your Name]</h4>
+                        <p>Welcome to my personal website! I'm a [profession] passionate about [interests].</p>
+                        
+                        <h4 style="color: #2c3e50; margin-top: 20px;">My Background</h4>
+                        <p>Write about your background, education, and how you got started in your field...</p>
+                        
+                        <h4 style="color: #2c3e50; margin-top: 20px;">What I Do</h4>
+                        <p>Describe your current work, research, or projects...</p>
+                        
+                        <h4 style="color: #2c3e50; margin-top: 20px;">Interests & Hobbies</h4>
+                        <p>Share your personal interests and hobbies...</p>
+                        
+                        <h4 style="color: #2c3e50; margin-top: 20px;">Get In Touch</h4>
+                        <p>• Email: your.email@example.com<br>
+                        • LinkedIn: Your Profile<br>
+                        • GitHub: Your Username</p>
+                    </div>
+                </div>
+                
+                <h3>Features:</h3>
+                <ul class="features-list">
+                    <li>Profile photo</li>
+                    <li>Simple text sections</li>
+                    <li>Contact information</li>
+                    <li>Easy Markdown editing</li>
+                    <li>Clean, minimal design</li>
+                </ul>
+                
+                <div class="file-info">
+                    <strong>📁 File to edit:</strong> <code>content/about.md</code>
+                    <br><br>
+                    Simple Markdown file - just edit text with basic formatting. To switch to this option, follow the instructions in the README.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div style="max-width: 1400px; margin: 40px auto; padding: 30px; background: white; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+        <h2 style="text-align: center; color: #2c3e50; margin-bottom: 20px;">Quick Decision Guide</h2>
+        
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+            <div style="padding: 20px; background: #f8f9fa; border-radius: 8px;">
+                <h3 style="color: #2c3e50; margin-top: 0;">Choose Option A if you:</h3>
+                <ul style="color: #555; line-height: 1.8;">
+                    <li>Are pursuing a PhD or graduate degree</li>
+                    <li>Want to show your academic progress visually</li>
+                    <li>Need to track milestones and completion status</li>
+                    <li>Want a more feature-rich landing page</li>
+                    <li>Don't mind editing HTML (it's well-commented)</li>
+                </ul>
+            </div>
+            
+            <div style="padding: 20px; background: #f8f9fa; border-radius: 8px;">
+                <h3 style="color: #2c3e50; margin-top: 0;">Choose Option B if you:</h3>
+                <ul style="color: #555; line-height: 1.8;">
+                    <li>Prefer a simple, text-focused page</li>
+                    <li>Want to use only Markdown (easier)</li>
+                    <li>Don't need a timeline or progress tracking</li>
+                    <li>Want minimal, clean design</li>
+                    <li>Are new to web development</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div style="margin-top: 30px; padding: 20px; background: #e3f2fd; border-left: 4px solid #2196f3; border-radius: 4px;">
+            <strong style="color: #1976d2;">💡 Note:</strong> You can keep both files in your repository and switch between them anytime by updating the workflow file. See the README for detailed instructions on switching.
+        </div>
+    </div>
+</body>
+</html>
