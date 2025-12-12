@@ -249,24 +249,24 @@ footer {
 }
 
 .milestone.completed .milestone-title {
-    color: #435e94;
+    color: #007e5c;
 }
 
 .milestone.in-progress .milestone-title {
-    color: #007e5c;
+    color: #435E94;
 }
 
 .milestone-status {
     font-size: 0.85rem;
-    color: #7f8c8d;
+    color: #435E94;
 }
 
 .milestone.completed .milestone-status {
-    color: #435e94;
+    color: #007e5c;
 }
 
 .milestone.in-progress .milestone-status {
-    color: #007e5c;
+    color: #2563EB;
 }
 
 .progress-bar-container {
