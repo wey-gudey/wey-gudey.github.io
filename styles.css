@@ -253,7 +253,7 @@ footer {
 }
 
 .milestone.in-progress .milestone-title {
-    color: #1f3d7a;
+    color: #007e5c;
 }
 
 .milestone-status {
@@ -266,7 +266,7 @@ footer {
 }
 
 .milestone.in-progress .milestone-status {
-    color: #1f3d7a;
+    color: #007e5c;
 }
 
 .progress-bar-container {
