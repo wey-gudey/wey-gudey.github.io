@@ -239,7 +239,7 @@ footer {
 }
 
 .milestone.in-progress::before {
-    background: linear-gradient(90deg, #2563EB 50%, white 50%);
+    background: linear-gradient(90deg, #435E94 50%, white 50%);
 }
 
 .milestone-title {
