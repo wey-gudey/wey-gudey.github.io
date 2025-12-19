@@ -155,10 +155,12 @@ Description of this project and your role in it.
 ### Conference Presentations
 
 **2026**
+
 - “Black Digital Recovery: The Colored Conventions Project Partnership with Occidental College's First Year 
 Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Information Futures Symposium. Seattle, WA. February 21.
 
 **2025**
+
 - “From the (Digital) Archive to the College Classroom - The Colored Conventions Project Collaboration with Occidental College's First Year Writing Seminar, ‘Emancipation - Black Freedom in the Making.’” Society of American Archivists Conference, Society of American Archivists. Anaheim, CA. August 25.
 - “Unsung Women of the Colored Conventions - Data [Re]Imagined.” Expanded Data, Critical Data Studio. Hamilton, Canada. Presenter. July 27.
 - “Colored Conventions Project as a Black Digital Humanities Praxis.” Digital Blackness - Collective Care, Community & Co-Creation Through the Colored Conventions Project, Douglass Day, and Carceral Algorithms. Association of Computers and the Humanities. Virtual. Presenter. June 11.
@@ -166,6 +168,7 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 -  “Occidental College Humanities For Just Communities Partnership - The Colored Conventions Movement in California, 1850s-1880s.” Colored Conventions Project Symposium, Center for Black Digital Research. Virtual. Presenter. April 11.
 
 **2023**
+
 -  “‘But You Don’t Look Habesha?’ Assessing the Impact of Phenotypic Bias Among Eritrean and Ethiopian Diasporic Women and Femmes in Los Angeles.” African Studies Association Conference, African Studies Association. San Francisco, CA. Presenter. December 1.
 -  “Éthiopiques - Piquing (Colonial Musical) Interests.” In the Night of Black Study, American Studies Association. Montreal, Canada. Panel. November 4.
 -  “The Young East African Girl - A Colorist and Texturist Construction of the Eritrean and Ethiopian Diasporic Womanhood in Los Angeles.” Young Africans on the Move - Exploring Intra- and Inter-continental Migration Processes and Dynamics Conference. European Master in Migration and Intercultural Relations (EMMIR). Ahfad University for Women, Entebbe, Uganda. Presenter. November 28.
