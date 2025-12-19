@@ -82,33 +82,33 @@
 
 ## Digital Projects
 
-**Critical Hope and Black Life at Oxy Digital Research Project(https://aaliyah808.github.io/CHBL-archive/)**  
+**[Critical Hope and Black Life at Oxy Digital Research Project](https://aaliyah808.github.io/CHBL-archive/)**  
 2020 - 2022
 
 A brief description of your digital project, what technologies you used, and its impact or purpose.
 
 **Precarious Freedoms on the Midwestern Frontier: The 1857 Iowa 
-State Colored Convention Muscatine, Iowa(https://coloredconventions.org/iowa-conventions/)**
+State Colored Convention Muscatine, Iowa**
 2023
 
 Description of this project and your role in it.
 
-**Mary Ann Shadd Cary’s Herstory in the Colored Conventions(https://coloredconventions.org/mary-ann-shadd-cary/)**
+**[Mary Ann Shadd Cary’s Herstory in the Colored Conventions](https://coloredconventions.org/mary-ann-shadd-cary/)**
 2023
 
 Description of this project and your role in it.
 
-**Mural Exhibit: The Colored Conventions Movement and Beyond in Philadelphia(https://coloredconventions.org/mural-arts/)**
+**[Mural Exhibit: The Colored Conventions Movement and Beyond in Philadelphia](https://coloredconventions.org/mural-arts/)**
 2022
 
 Description of this project and your role in it.
 
-**Spatial Justice(https://project-link.com)**
+**[Spatial Justice](https://project-link.com)**
 2016
 
 Description of this project and your role in it.
 
-**Oxy United for Black Liberation(https://https://web.archive.org/web/20200820081711/http://specialcollections.oxycreates.org/equitydiversity/s/oxy-united-for-black-liberation/page/welcome)**  
+**[Oxy United for Black Liberation](https://https://web.archive.org/web/20200820081711/http://specialcollections.oxycreates.org/equitydiversity/s/oxy-united-for-black-liberation/page/welcome)**  
 2015
 
 Description of this project and your role in it.
