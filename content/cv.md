@@ -22,7 +22,7 @@
 2021 - Present
 
 - **Concentration in Justice, Ethics, and Diversity Concentration**
-- **Dissertation:** ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals Within the Los Angeles and Orange County Diasporic Communities from Ethiopia
+- **Dissertation:** ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals within Los Angeles and Orange County Diasporic Communities from Ethiopia
 - **Advisors:** Dr. Louisa Holmes and Dr. Maha Maraoun
 
 **Master of Science in Geography**  
@@ -108,7 +108,7 @@ Description of this project and your role in it.
 
 Description of this project and your role in it.
 
-**[Selamta Family Project, Forever Family Homes]**  
+**Selamta Family Project, Forever Family Homes**  
 2018
 
 Description of this project and your role in it.
