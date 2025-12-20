@@ -22,7 +22,6 @@
 2021 - Present
 
 - Concentration in Justice, Ethics, and Diversity
-
 - Dissertation: ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals Within the Los Angeles and Orange County Ethiopian Diasporic Community
 - Advisors: Dr. Louisa Holmes and Dr. Maha Maraoun
 
@@ -39,9 +38,9 @@
 - Emphasis on Postcolonial Theory
 - Minor in Interdisciplinary Writing
 
-**Study Abroad Program**  
-*Semester Abroad: Social and Political Transformation,  School for International Training (SIT) Durban*  
-*South Africa*  
+**Semester Abroad: Social and Political Transformation**  
+*School for International Training (SIT) Durban*  
+*Durban, South Africa*
 2015
 
 ---
@@ -91,8 +90,7 @@
 
 A brief description of your digital project, what technologies you used, and its impact or purpose.
 
-**Precarious Freedoms on the Midwestern Frontier: The 1857 Iowa 
-State Colored Convention Muscatine, Iowa**
+**Precarious Freedoms on the Midwestern Frontier: The 1857 Iowa State Colored Convention Muscatine, Iowa**
 2023
 
 Description of this project and your role in it.
@@ -117,7 +115,7 @@ Description of this project and your role in it.
 
 Description of this project and your role in it.
 
-**[Oxy United for Black Liberation](https://https://web.archive.org/web/20200820081711/http://specialcollections.oxycreates.org/equitydiversity/s/oxy-united-for-black-liberation/page/welcome)**  
+**[Oxy United for Black Liberation](https://https://web.archive.org/web/20200820081711/http://specialcollections.oxycreates.org/equitydiversity/s/oxy-united-for-black-liberation/page/welcome)**
 2015
 
 Description of this project and your role in it.
@@ -156,8 +154,7 @@ Description of this project and your role in it.
 
 ## Publications & Presentations
 
-### Community Publications
-
+---
 
 ### Invited Talks
 
