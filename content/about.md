@@ -77,7 +77,7 @@ Share your personal interests, hobbies, or what you enjoy doing outside of work.
 ### Get In Touch
 
 Feel free to reach out via:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: mekonen at psu dot edu
+- LinkedIn: [Eden Mekonen LinkedIn](https://www.linkedin.com/in/eden-mekonen/)
+- GitHub: [Eden Mekonen GitHub](https://github.com/wey-gudey)
+- BlueSky: [@weygudey.bsky.social](https://bsky.app/profile/weygudey.bsky.social)
