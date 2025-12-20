@@ -261,16 +261,16 @@ Description of this project and your role in it.
 *Stanford University*   
 2020 - 2021
 
-**Cardinal Quarter Advisor**
+**Cardinal Quarter Advisor**  
 *Stanford University*  
 2019 - 2020
 
-**Emerson Fellowship: Transforming Dialogue Into Action - Teaching Assistant**
+**Emerson Fellowship: Transforming Dialogue Into Action - Teaching Assistant**  
 *Stanford University*  
 2018 - 2019
 
-**Writing Advisor**
-*Occidental College*
+**Writing Advisor**  
+*Occidental College*  
 2014 - 2016
 
 ---
@@ -287,7 +287,7 @@ Description of this project and your role in it.
 - Human Resource and Data Coordination Fellow, Ethiopian Diaspora Fellowship
 
 **2016**
-- Interfaith Values and Vocation Fellow (declined), Office of Religious and Spiritual Life, Occidental College
+- Interfaith Values and Vocation Fellow (*declined*), Office of Religious and Spiritual Life, Occidental College
 
 **2015**
 - Mary S. Caswell Endowment Summer Research Fellow, Undergraduate Research Center, Occidental College
