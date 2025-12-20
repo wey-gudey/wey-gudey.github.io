@@ -44,7 +44,7 @@
 *School for International Training (SIT) Durban, South Africa*  
 2015
 
-- Social and Political Transformation in South Africa
+- Social and Political Transformation in South Africa program
 
 ---
 
