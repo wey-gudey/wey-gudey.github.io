@@ -42,7 +42,7 @@
 
 **Semester Abroad: Social and Political Transformation**  
 *School for International Training (SIT) Durban*  
-*Durban, South Africa*
+*Durban, South Africa*  
 2015
 
 ---
