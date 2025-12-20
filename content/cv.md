@@ -41,8 +41,7 @@
 - Minor in Interdisciplinary Writing
 
 **Semester Abroad: Social and Political Transformation**  
-*School for International Training (SIT) Durban*  
-*Durban, South Africa*  
+*School for International Training (SIT) Durban, South Africa*  
 2015
 
 ---
