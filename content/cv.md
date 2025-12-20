@@ -40,15 +40,15 @@
 - Emphasis on Postcolonial Theory
 - Minor in Interdisciplinary Writing
 
-**Study Abroad Program**  
+**Semester Abroad on Social and Political Transformation**  
 *School for International Training (SIT) Durban, South Africa*  
 2015
 
-- Social and Political Transformation in South Africa program
-
 ---
 
-## Work Experience
+## Work Experience  
+
+### Academic Work Experience  
 
 **Metadata Curator & Digital Project Manager, Colored Conventions Project**  
 *Center for Black Digital Research, The Pennsylvania State University*  
@@ -83,6 +83,38 @@
 **Mapping Consultant, Independent Contractor for Fulbright Grant**   
 *based in Addis Ababa, Ethiopia*  
 2017 - 2018
+
+### Public Service Professional Experience
+
+**Graduate Administrative Assistant, Technology and Operations**  
+*Center for Black Digital Research, The Pennsylvania State University*  
+*State College, PA, USA*  
+2022 - 2023
+
+**Student & Community Programs, Program Coordinator**  
+*Haas Center for Public Service, Stanford University*  
+*Stanford, CA, USA*  
+2019 - 2021
+
+**Community Engaged Learning & Research, Interim Program Manager**  
+*Haas Center for Public Service, Stanford University*  
+*Stanford, CA, USA*  
+2019
+
+**Student Cohorts & Community Partnerships, Program Coordinator**  
+*Haas Center for Public Service, Stanford University*  
+*Stanford, CA, USA*  
+2018 - 2019
+
+**Human Resource & Data Coordination Fellow**  
+*Selamta Family Project, Ethiopian Diaspora Fellowship*  
+*Addis Ababa, Ethiopia*
+2017 - 2018
+
+**Community Engagement Coordinator**
+*Las Fotos Project, AmeriCorps: Public Allies Los Angeles*  
+*Los Angeles, CA, USA*  
+2016 - 2017  
 
 ---
 
