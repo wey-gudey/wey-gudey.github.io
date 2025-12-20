@@ -389,12 +389,11 @@ Description of this project and your role in it.
 
 **Departmental Service**
 
-- Committee membership, Department Name (Year - Present)
 - Graduate Student Representative, African Studies Program, *The Pennsylvania State University* (2022 - 2023)
-- Supporting Women in Geography (SWIG), *The Pennsylvania State University*(2021 - Present)
+- Member, Human Geography Working Group *The Pennsylvania State University* (2021 - Present)
+- Member,Supporting Women in Geography (SWIG), *The Pennsylvania State University* (2021 - Present)
 - Member, Penn State Pan-African Professional Alliance (Pan-APA), *The Pennsylvania State University* (2021 - Present)
 - Member, Black Staff Alliance, *Stanford University* (2028 - 2021)
-- Student organization role (Year - Year)
 
 ---
 
