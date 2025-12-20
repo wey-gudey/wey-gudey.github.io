@@ -22,7 +22,7 @@
 2021 - Present
 
 - Concentration in Justice, Ethics, and Diversity
-- Dissertation: ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals Within the Los Angeles and Orange County Ethiopian Diasporic Community
+- Dissertation: ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals Within the Los Angeles and Orange County Diasporic Communities from Ethiopia
 - Advisors: Dr. Louisa Holmes and Dr. Maha Maraoun
 
 **Master of Science in Geography**  
@@ -30,7 +30,7 @@
 2021 - 2023
 
 - Concentration in Justice, Ethics, and Diversity
-- Thesis: From Addis to Inglewood: Los Angeles County Placemaking ProcessesAmong Diasporic Communities from Ethiopia
+- Thesis: From Addis to Inglewood: Los Angeles County Placemaking Processes Among Diasporic Communities from Ethiopia
 - Advisors: Dr. Louisa Holmes and Dr. Kidane Mengisteab
 
 **Bachelor of Arts in Critical Theory and Social Justice**  
