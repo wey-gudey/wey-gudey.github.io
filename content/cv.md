@@ -113,7 +113,7 @@
 
 **Human Resource & Data Coordination Fellow**  
 *Selamta Family Project, Ethiopian Diaspora Fellowship*  
-*Addis Ababa, Ethiopia*
+*Addis Ababa, Ethiopia*  
 2017 - 2018
 
 **Community Engagement Coordinator**
