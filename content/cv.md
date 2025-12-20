@@ -103,7 +103,7 @@ Description of this project and your role in it.
 
 Description of this project and your role in it.
 
-**[Mural Exhibit: The Colored Conventions Movement and Beyond in Philadelphia](https://coloredconventions.org/mural-arts/)**
+**[Mural Exhibit: The Colored Conventions Movement and Beyond in Philadelphia](https://coloredconventions.org/mural-arts/)**  
 2022
 
 Description of this project and your role in it.
@@ -178,8 +178,8 @@ Description of this project and your role in it.
 
 - “From the (Digital) Archive to the College Classroom - The Colored Conventions Project Collaboration with Occidental College's First Year Writing Seminar, ‘Emancipation: Black Freedom in the Making.’” Society of American Archivists Conference, Society of American Archivists. Anaheim, CA. August 25.
 - “Unsung Women of the Colored Conventions: Data [Re]Imagined.” Expanded Data, Critical Data Studio. Hamilton, Canada. Presenter. July 27.
-- “Colored Conventions Project as a Black Digital Humanities Praxis.” Digital Blackness - Collective Care, Community & Co-Creation Through the Colored Conventions Project, Douglass Day, and Carceral Algorithms. Association of Computers and the Humanities. Virtual. Presenter. June 11.
 -  “What the NEH ODH has Inspired” Association of Computers and the Humanities. Virtual. Presenter. June 13.
+- “Colored Conventions Project as a Black Digital Humanities Praxis.” Digital Blackness - Collective Care, Community & Co-Creation Through the Colored Conventions Project, Douglass Day, and Carceral Algorithms. Association of Computers and the Humanities. Virtual. Presenter. June 11.
 -  “Occidental College Humanities For Just Communities Partnership - The Colored Conventions Movement in California, 1850s-1880s.” Colored Conventions Project Symposium, Center for Black Digital Research. Virtual. Presenter. April 11.
 
 **2023**
@@ -201,6 +201,7 @@ Description of this project and your role in it.
 -  “Reviewing, Engaging, and Institutionalizing Principles of Ethical and Effective Service,” National Service-Learning Conference. Virtual Conference. Presenter. April 14.
 
 **2020**
+
 -  “Reviewing, Engaging, and Institutionalizing Principles of Ethical and Effective Service,” Campus Compact, Seattle, WA. Presenter. March 30. (*Conference canceled due to COVID-19 Pandemic*)
 
 **2015**
@@ -278,19 +279,24 @@ Description of this project and your role in it.
 
 ## Fellowships
 
-**2023 - Present**
+**2023 - Present**  
+
 - #DigBlk Fellow, Center for Black Digital Research, The Pennsylvania State University
 
-**2021 - Present**
+**2021 - Present**  
+
 - Bunton Waller Graduate Assistantship, The Pennsylvania State University
 
-**2017 - 2018**
+**2017 - 2018**  
+
 - Human Resource and Data Coordination Fellow, Ethiopian Diaspora Fellowship
 
-**2016**
+**2016**  
+
 - Interfaith Values and Vocation Fellow (*declined*), Office of Religious and Spiritual Life, Occidental College
 
-**2015**
+**2015**  
+
 - Mary S. Caswell Endowment Summer Research Fellow, Undergraduate Research Center, Occidental College
 
 ---
