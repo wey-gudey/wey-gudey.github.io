@@ -108,7 +108,7 @@ Description of this project and your role in it.
 
 Description of this project and your role in it.
 
-**[Selamta Family Project, Forever Family Homes](https://project-link.com)**  
+**[Selamta Family Project, Forever Family Homes]**  
 2018
 
 Description of this project and your role in it.
@@ -358,7 +358,17 @@ Description of this project and your role in it.
 **Professional Development**
 
 - Certificate Program Name, Institution (Year)
-- Training Workshop Name, Organization (Year)
+- Mapping Emotions:Exploring What's Underneath, International End of Life Doula Association (2025)
+- End-of-Life Doula Training, International End of Life Doula Association (2025)
+- My/Your Data Body, MacMaster University (2025)
+- Equity, Advocacy, and Care Framework for Digital Humanities Labs and Communities, Digital Humanities Summer Institute (2025)
+- Visiting an Archive in the Summer? Take Tropy with You, The Pennsylvania State University (2025)
+- Organized Chaos: Humanities Data and Cleaning with a Purpose, The Pennsylvania State University (2025)
+- Digital Humanities in the Classroom, DreamLab (2024)
+- Zotero: The Best Friend to Your Bibliography, The Pennsylvania State University (2024)
+- Making Meaning with Digital Maps, The Pennsylvania State University (2024)
+- How’d They Do It?, The Pennsylvania State University (2024)
+- Advocating for Community: Data Collection and Visualization, DreamLab (2023)
 
 **Languages of Research**
 
