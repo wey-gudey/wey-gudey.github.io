@@ -69,6 +69,10 @@
 *Remote*  
 2025
 
+**Consultant, Visualizing Black Freedom, Enslavement, and Activism in the Early Nineteenth Century**  
+*Remote*  
+2025
+
 **Archivist & Project Manager, Critical Hope and Black Life at Occidental College**  
 *Occidental College*  
 *Los Angeles, CA*  
@@ -100,6 +104,11 @@ Description of this project and your role in it.
 
 **[Mural Exhibit: The Colored Conventions Movement and Beyond in Philadelphia](https://coloredconventions.org/mural-arts/)**
 2022
+
+Description of this project and your role in it.
+
+**[Selamta Family Project, Forever Family Homes](https://project-link.com)**
+2018
 
 Description of this project and your role in it.
 
@@ -142,6 +151,7 @@ Description of this project and your role in it.
 **2017**
 
 - Segal AmeriCorps Education Award, Public Allies Los Angeles, AmeriCorps
+
 ---
 
 ## Publications & Presentations
@@ -161,13 +171,12 @@ Description of this project and your role in it.
 
 **2026**
 
-- “Black Digital Recovery: The Colored Conventions Project Partnership with Occidental College's First Year 
-Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Information Futures Symposium. Seattle, WA. February 21.
+- “Black Digital Recovery: The Colored Conventions Project Partnership with Occidental College's First Year Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Information Futures Symposium. Seattle, WA. February 21.
 
 **2025**
 
-- “From the (Digital) Archive to the College Classroom - The Colored Conventions Project Collaboration with Occidental College's First Year Writing Seminar, ‘Emancipation - Black Freedom in the Making.’” Society of American Archivists Conference, Society of American Archivists. Anaheim, CA. August 25.
-- “Unsung Women of the Colored Conventions - Data [Re]Imagined.” Expanded Data, Critical Data Studio. Hamilton, Canada. Presenter. July 27.
+- “From the (Digital) Archive to the College Classroom - The Colored Conventions Project Collaboration with Occidental College's First Year Writing Seminar, ‘Emancipation: Black Freedom in the Making.’” Society of American Archivists Conference, Society of American Archivists. Anaheim, CA. August 25.
+- “Unsung Women of the Colored Conventions: Data [Re]Imagined.” Expanded Data, Critical Data Studio. Hamilton, Canada. Presenter. July 27.
 - “Colored Conventions Project as a Black Digital Humanities Praxis.” Digital Blackness - Collective Care, Community & Co-Creation Through the Colored Conventions Project, Douglass Day, and Carceral Algorithms. Association of Computers and the Humanities. Virtual. Presenter. June 11.
 -  “What the NEH ODH has Inspired” Association of Computers and the Humanities. Virtual. Presenter. June 13.
 -  “Occidental College Humanities For Just Communities Partnership - The Colored Conventions Movement in California, 1850s-1880s.” Colored Conventions Project Symposium, Center for Black Digital Research. Virtual. Presenter. April 11.
@@ -175,16 +184,16 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 **2023**
 
 -  “‘But You Don’t Look Habesha?’ Assessing the Impact of Phenotypic Bias Among Eritrean and Ethiopian Diasporic Women and Femmes in Los Angeles.” African Studies Association Conference, African Studies Association. San Francisco, CA. Presenter. December 1.
--  “Éthiopiques - Piquing (Colonial Musical) Interests.” In the Night of Black Study, American Studies Association. Montreal, Canada. Panel. November 4.
--  “The Young East African Girl - A Colorist and Texturist Construction of the Eritrean and Ethiopian Diasporic Womanhood in Los Angeles.” Young Africans on the Move - Exploring Intra- and Inter-continental Migration Processes and Dynamics Conference. European Master in Migration and Intercultural Relations (EMMIR). Ahfad University for Women, Entebbe, Uganda. Presenter. November 28.
--  “From Addis to Inglewood - Panethnic Placemaking Practices Within Diasporic Communities from Ethiopia.” Race, Ethnicity, Place Conference. American Association of Geographers. Washington D.C. Poster Presenter. October 12.
--  “From Addis to Inglewood - Panethnic Placemaking Practices Within Diasporic Communities from Ethiopia.” American Association of Geographers. Denver, CO. Presenter. March 23.
--  “Éthiopiques - Piquing (Colonial Musical) Interests.” Digitizing Performance in Africa - Politics, Aesthetics, and Historical Continuities in the Circulation of Music Conference, Université Paris Nanterre. Paris, France. Co-Presenter. January 19. (Paper Accepted)
+-  “Éthiopiques: Piquing (Colonial Musical) Interests.” In the Night of Black Study, American Studies Association. Montreal, Canada. Panel. November 4.
+-  “The Young East African Girl: A Colorist and Texturist Construction of the Eritrean and Ethiopian Diasporic Womanhood in Los Angeles.” Young Africans on the Move: Exploring Intra- and Inter-continental Migration Processes and Dynamics Conference. European Master in Migration and Intercultural Relations (EMMIR). Ahfad University for Women, Entebbe, Uganda. Presenter. November 28.
+-  “From Addis to Inglewood: Panethnic Placemaking Practices Within Diasporic Communities from Ethiopia.” Race, Ethnicity, Place Conference. American Association of Geographers. Washington D.C. Poster Presenter. October 12.
+-  “From Addis to Inglewood: Panethnic Placemaking Practices Within Diasporic Communities from Ethiopia.” American Association of Geographers. Denver, CO. Presenter. March 23.
+-  “Éthiopiques: Piquing (Colonial Musical) Interests.” Digitizing Performance in Africa - Politics, Aesthetics, and Historical Continuities in the Circulation of Music Conference, Université Paris Nanterre. Paris, France. Co-Presenter. January 19. (Paper Accepted)
 
 **2022**
 
 -  “Be-Longing and Placemaking Within Diasporic Communities from Ethiopia in Los Angeles County.” African Studies Association Conference, African Studies Association. Philadelphia, PA. Presenter.  November 17.
--  “San Diego Latinas in Informal Economies - Persevering through COVID-19,” [Re]Emergence, [Re]imagination, [Re]vision, and Revolution - Virtual Interdisciplinary Feminist Conference, Pennsylvania State University. Virtual Conference. Moderator. February 25.
+-  “San Diego Latinas in Informal Economies: Persevering through COVID-19,” [Re]Emergence, [Re]imagination, [Re]vision, and Revolution - Virtual Interdisciplinary Feminist Conference, Pennsylvania State University. Virtual Conference. Moderator. February 25.
 
 **2021**
 
@@ -195,7 +204,7 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 
 **2015**
 
--  “Gendered Diaspora - Little Ethiopia,” Occidental College Undergraduate Research Conference, Occidental College, Los Angeles Presenter. July 29.
+-  “Gendered Diaspora: Little Ethiopia,” Occidental College Undergraduate Research Conference, Occidental College, Los Angeles Presenter. July 29.
 
 ---
 
@@ -346,7 +355,7 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 
 **Languages of Research**
 
-- English,(native reading/writing/speaking)
+- English (native reading/writing/speaking)
 - Amharic (fluent speaking; intermediate reading/writing)
 
 **Hobbies & Interests**
