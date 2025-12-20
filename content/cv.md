@@ -75,6 +75,11 @@
 *Remote*  
 2025
 
+**Mentor, Geography Education Networking Initiative for Underrepresented Scholars (GENIUS)**  
+*Geography Department, The Pennsylvania State University*  
+*State College, PA, USA*  
+2023 - 2024
+
 **Archivist & Project Manager, Critical Hope and Black Life at Occidental College**  
 *Occidental College*  
 *Los Angeles, CA, USA*  
@@ -341,9 +346,17 @@ Description of this project and your role in it.
 
 ## Professional Memberships
 
-- Organization Name (Year - Present)
-- Another Organization (Year - Present)
-- Professional Society Name (Year - Present)
+- Society of American Archivists (SAA)(2024 - Present)
+- American Studies Association (ASA)(2023 - Present)
+- African Studies Association (ASA)(2021 - Present)
+- African Feminism Initiative (AFI)(2021 - Present)
+- Supporting Women in Geography (SWIG)(2021 - Present)
+- Penn State Pan-African Professional Alliance (Pan-APA)(2021 - Present)
+- American Association of Geographers (AAG)(2021 - Present)
+- Black Alumni Organization of Occidental College (BAO)(2019 - Present)
+- African Diaspora Network (ADN)(2018 - Present)
+- Your Ethiopian Professionals (YEP)(2017 - Present)
+- Campus Compact (2018 - 2021)
 
 ---
 
