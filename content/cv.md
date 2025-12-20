@@ -10,7 +10,7 @@
 
 **Full Name:** Eden Mekonen  
 **Languages:** English, Amharic  
-**Location:** Los Angeles, CA, USA State College, PA, USA
+**Location:** Los Angeles, CA; USA State College, PA, USA
 **Email:** mekonen at psu dot edu
 
 ---
@@ -81,7 +81,7 @@
 
 **Mapping Consultant, Independent Contractor for Fulbright Grant**   
 *based in Addis Ababa, Ethiopia*  
-2017-2018
+2017 - 2018
 
 ---
 
@@ -92,12 +92,12 @@
 
 A brief description of your digital project, what technologies you used, and its impact or purpose.
 
-**Precarious Freedoms on the Midwestern Frontier: The 1857 Iowa State Colored Convention Muscatine, Iowa**
+**Precarious Freedoms on the Midwestern Frontier: The 1857 Iowa State Colored Convention Muscatine, Iowa**  
 2023
 
 Description of this project and your role in it.
 
-**[Mary Ann Shadd Cary’s Herstory in the Colored Conventions](https://coloredconventions.org/mary-ann-shadd-cary/)**
+**[Mary Ann Shadd Cary’s Herstory in the Colored Conventions](https://coloredconventions.org/mary-ann-shadd-cary/)**  
 2023
 
 Description of this project and your role in it.
@@ -107,17 +107,17 @@ Description of this project and your role in it.
 
 Description of this project and your role in it.
 
-**[Selamta Family Project, Forever Family Homes](https://project-link.com)**
+**[Selamta Family Project, Forever Family Homes](https://project-link.com)**  
 2018
 
 Description of this project and your role in it.
 
-**[Spatial Justice](https://project-link.com)**
+**[Spatial Justice](https://project-link.com)**  
 2016
 
 Description of this project and your role in it.
 
-**[Oxy United for Black Liberation](https://https://web.archive.org/web/20200820081711/http://specialcollections.oxycreates.org/equitydiversity/s/oxy-united-for-black-liberation/page/welcome)**
+**[Oxy United for Black Liberation](https://https://web.archive.org/web/20200820081711/http://specialcollections.oxycreates.org/equitydiversity/s/oxy-united-for-black-liberation/page/welcome)**  
 2015
 
 Description of this project and your role in it.
@@ -188,7 +188,7 @@ Description of this project and your role in it.
 -  “The Young East African Girl: A Colorist and Texturist Construction of the Eritrean and Ethiopian Diasporic Womanhood in Los Angeles.” Young Africans on the Move: Exploring Intra- and Inter-continental Migration Processes and Dynamics Conference. European Master in Migration and Intercultural Relations (EMMIR). Ahfad University for Women, Entebbe, Uganda. Presenter. November 28.
 -  “From Addis to Inglewood: Panethnic Placemaking Practices Within Diasporic Communities from Ethiopia.” Race, Ethnicity, Place Conference. American Association of Geographers. Washington D.C. Poster Presenter. October 12.
 -  “From Addis to Inglewood: Panethnic Placemaking Practices Within Diasporic Communities from Ethiopia.” American Association of Geographers. Denver, CO. Presenter. March 23.
--  “Éthiopiques: Piquing (Colonial Musical) Interests.” Digitizing Performance in Africa - Politics, Aesthetics, and Historical Continuities in the Circulation of Music Conference, Université Paris Nanterre. Paris, France. Co-Presenter. January 19. (Paper Accepted)
+-  “Éthiopiques: Piquing (Colonial Musical) Interests.” Digitizing Performance in Africa - Politics, Aesthetics, and Historical Continuities in the Circulation of Music Conference, Université Paris Nanterre. Paris, France. Co-Presenter. January 19. (*Paper Accepted*)
 
 **2022**
 
@@ -200,7 +200,7 @@ Description of this project and your role in it.
 -  “Reviewing, Engaging, and Institutionalizing Principles of Ethical and Effective Service,” National Service-Learning Conference. Virtual Conference. Presenter. April 14.
 
 **2020**
--  “Reviewing, Engaging, and Institutionalizing Principles of Ethical and Effective Service,” Campus Compact, Seattle, WA. Presenter. March 30. (Conference canceled due to COVID-19 Pandemic)
+-  “Reviewing, Engaging, and Institutionalizing Principles of Ethical and Effective Service,” Campus Compact, Seattle, WA. Presenter. March 30. (*Conference canceled due to COVID-19 Pandemic*)
 
 **2015**
 
@@ -263,15 +263,15 @@ Description of this project and your role in it.
 
 **Cardinal Quarter Advisor**
 *Stanford University*  
-2019-2020
+2019 - 2020
 
 **Emerson Fellowship: Transforming Dialogue Into Action - Teaching Assistant**
 *Stanford University*  
-2018-2019
+2018 - 2019
 
 **Writing Advisor**
 *Occidental College*
-2014-2016
+2014 - 2016
 
 ---
 
