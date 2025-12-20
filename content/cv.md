@@ -21,7 +21,7 @@
 *The Pennsylvania State University, State College, PA, USA*  
 2021 - Present
 
-- **Concentration in Justice, Ethics, and Diversity Concentration**
+- *Concentration in Justice, Ethics, and Diversity Concentration*
 - **Dissertation:** ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals within Los Angeles and Orange County Diasporic Communities from Ethiopia
 - **Advisors:** Dr. Louisa Holmes and Dr. Maha Maraoun
 
@@ -29,7 +29,7 @@
 *The Pennsylvania State University, State College, PA, USA*  
 2021 - 2023
 
-- **Justice, Ethics, and Diversity Concentration**
+- *Justice, Ethics, and Diversity Concentration*
 - **Thesis:** From Addis to Inglewood: Los Angeles County Placemaking Processes Among Diasporic Communities from Ethiopia
 - **Advisors:** Dr. Louisa Holmes and Dr. Kidane Mengisteab
 
@@ -37,8 +37,8 @@
 *Occidental College, Los Angeles, CA, USA*  
 2016
 
-- Emphasis on Postcolonial Theory
-- Minor in Interdisciplinary Writing
+- *Emphasis on Postcolonial Theory*
+- *Minor in Interdisciplinary Writing*
 
 **Semester Abroad on Social and Political Transformation**  
 *School for International Training (SIT) Durban, South Africa*  
@@ -411,7 +411,7 @@ Description of this project and your role in it.
 **Professional Development**
 
 - Certificate Program Name, Institution (Year)
-- Mapping Emotions:Exploring What's Underneath, International End of Life Doula Association (2025)
+- Mapping Emotions: Exploring What's Underneath, International End of Life Doula Association (2025)
 - End-of-Life Doula Training, International End of Life Doula Association (2025)
 - My/Your Data Body, MacMaster University (2025)
 - Equity, Advocacy, and Care Framework for Digital Humanities Labs and Communities, Digital Humanities Summer Institute (2025)
