@@ -30,6 +30,8 @@
 2021 - 2023
 
 - Concentration in Justice, Ethics, and Diversity
+- Thesis: From Addis to Inglewood: Los Angeles County Placemaking ProcessesAmong Diasporic Communities from Ethiopia
+- Advisors: Dr. Louisa Holmes and Dr. Kidane Mengisteab
 
 **Bachelor of Arts in Critical Theory and Social Justice**  
 *Occidental College, Los Angeles, CA*  
@@ -129,6 +131,7 @@ Description of this project and your role in it.
 - Dickerson Fellowship, The Pennsylvania State University
 
 **2024**
+
 - Enrichment Grant, Geography Department, The Pennsylvania State University
 
 **2023**
