@@ -350,8 +350,6 @@ Description of this project and your role in it.
 - American Studies Association (ASA)(2023 - Present)
 - African Studies Association (ASA)(2021 - Present)
 - African Feminism Initiative (AFI)(2021 - Present)
-- Supporting Women in Geography (SWIG)(2021 - Present)
-- Penn State Pan-African Professional Alliance (Pan-APA)(2021 - Present)
 - American Association of Geographers (AAG)(2021 - Present)
 - Black Alumni Organization of Occidental College (BAO)(2019 - Present)
 - African Diaspora Network (ADN)(2018 - Present)
@@ -386,11 +384,16 @@ Description of this project and your role in it.
 **Community Engagement**
 
 - Role description, Organization Name (Year - Present)
+- Co-Archivist, *Black Alumni Organization of Occidental College (BAO), Occidental College*
 - Another role, Organization Name (Year - Year)
 
 **Departmental Service**
 
 - Committee membership, Department Name (Year - Present)
+- Graduate Student Representative, African Studies Program, *The Pennsylvania State University* (2022 - 2023)
+- Supporting Women in Geography (SWIG), *The Pennsylvania State University*(2021 - Present)
+- Member, Penn State Pan-African Professional Alliance (Pan-APA), *The Pennsylvania State University* (2021 - Present)
+- Member, Black Staff Alliance, *Stanford University* (2028 - 2021)
 - Student organization role (Year - Year)
 
 ---
