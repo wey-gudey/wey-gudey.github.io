@@ -40,9 +40,11 @@
 - Emphasis on Postcolonial Theory
 - Minor in Interdisciplinary Writing
 
-**Semester Abroad: Social and Political Transformation**  
+**Study Abroad Program**  
 *School for International Training (SIT) Durban, South Africa*  
 2015
+
+- Social and Political Transformation in South Africa
 
 ---
 
