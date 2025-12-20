@@ -18,7 +18,7 @@
 ## Education
 
 **PhD in Geography & African Studies**  
-*The Pennsylvania State University, State College, PA*  
+*The Pennsylvania State University, State College, PA, USA*  
 2021 - Present
 
 - **Concentration in Justice, Ethics, and Diversity Concentration**
@@ -26,7 +26,7 @@
 - **Advisors:** Dr. Louisa Holmes and Dr. Maha Maraoun
 
 **Master of Science in Geography**  
-*The Pennsylvania State University, State College, PA*  
+*The Pennsylvania State University, State College, PA, USA*  
 2021 - 2023
 
 - **Justice, Ethics, and Diversity Concentration**
@@ -34,7 +34,7 @@
 - **Advisors:** Dr. Louisa Holmes and Dr. Kidane Mengisteab
 
 **Bachelor of Arts in Critical Theory and Social Justice**  
-*Occidental College, Los Angeles, CA*  
+*Occidental College, Los Angeles, CA, USA*  
 2016
 
 - Emphasis on Postcolonial Theory
@@ -52,7 +52,7 @@
 
 **Metadata Curator & Digital Project Manager, Colored Conventions Project**  
 *Center for Black Digital Research, The Pennsylvania State University*  
-*State College, PA*  
+*State College, PA, USA*  
 2022 - Present
 
 - Key responsibility or achievement 1
@@ -61,7 +61,7 @@
 
 **Community Engagement, Douglass Day**  
 *Center for Black Digital Research, The Pennsylvania State University*  
-*State College, PA*  
+*State College, PA, USA*  
 2022 - Present
 
 - Key responsibility or achievement 1
@@ -77,7 +77,7 @@
 
 **Archivist & Project Manager, Critical Hope and Black Life at Occidental College**  
 *Occidental College*  
-*Los Angeles, CA*  
+*Los Angeles, CA, USA*  
 2020 - 2022
 
 **Mapping Consultant, Independent Contractor for Fulbright Grant**   
@@ -188,7 +188,13 @@ Description of this project and your role in it.
 
 ---
 
-## Publications & Presentations
+## Publications
+
+- Mekonen, E. and Casey, J. (2025). “CUNY Distance Learning Archive (CDLA).” In Reviews in DH. https://reviewsindh.pubpub.org/pub/cuny-distance-learning-archive/release/1.
+- Contributor, Haas Center for Public Service. (2019). Principles of Ethical and Effective Service. Retrieved from https://haas.stanford.edu/about/our-approach/principles-ethical-and-effective-service
+- Mekonen, E. (2018). “Arts in Addis.” Ethiopian Diaspora Fellowship. Retrieved from http://ethiopiandiasporafellowship.org/2018/02/09/arts-in-addis/
+- Mekonen, E. (2017). “Black Bole.” Addis Insight. Retrieved from http://www.addisinsight.com/black-bole/
+- Mekonen, E. (2017). “Navigation.” Ethiopian Diaspora Fellowship. Retrieved from http://ethiopiandiasporafellowship.org/2017/09/25/navigation/
 
 ---
 
