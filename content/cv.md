@@ -118,18 +118,21 @@ Description of this project and your role in it.
 ## Grants and Awards
 
 **2025**
+
 - Dickerson Fellowship, The Pennsylvania State University
 
 **2024**
 - Enrichment Grant, Geography Department, The Pennsylvania State University
 
 **2023**
+
 - Place Lab Grant, Geography Department, The Pennsylvania State University
 - Travel Grant, College of Earth and Mineral Sciences Office of Educational Equity, The Pennsylvania State University
 - African Feminism Initiative Research and Travel Award, African Feminism Initiative, The Pennsylvania State University
 - Enrichment Grant, Geography Department, The Pennsylvania State University
 
 **2022**
+
 - Africana Research Center Grant, Africana Research Center, The Pennsylvania State University
 - Enrichment Grant, Geography Department, The Pennsylvania State University
 - African Studies Travel Grant, African Studies Program, The Pennsylvania State University
@@ -137,6 +140,7 @@ Description of this project and your role in it.
 - African Feminism Initiative Research and Travel Award, African Feminism Initiative, The Pennsylvania State University
 
 **2017**
+
 - Segal AmeriCorps Education Award, Public Allies Los Angeles, AmeriCorps
 ---
 
@@ -148,6 +152,7 @@ Description of this project and your role in it.
 ### Invited Talks
 
 **2021**
+
 - “Commemorative Justice and the Necessity of Preserving Black Life,” Institute for the Study of Los Angeles, Occidental College, Los Angeles, CA. Panel Organizer. February 17.
 - “Archiving One’s Sacred Purpose in Higher Education,” Sociocultural Foundations of Education, Education Program. Occidental College, Los Angeles, CA. Presenter with Aaliyah Davis. April 6.
 - “Community Archiving & Storytelling as Liberation,” Multicultural Summer Institute, Occidental College, Los Angeles, CA. Presenter with Aaliyah Davis. March 15.
@@ -177,16 +182,19 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 -  “Éthiopiques - Piquing (Colonial Musical) Interests.” Digitizing Performance in Africa - Politics, Aesthetics, and Historical Continuities in the Circulation of Music Conference, Université Paris Nanterre. Paris, France. Co-Presenter. January 19. (Paper Accepted)
 
 **2022**
+
 -  “Be-Longing and Placemaking Within Diasporic Communities from Ethiopia in Los Angeles County.” African Studies Association Conference, African Studies Association. Philadelphia, PA. Presenter.  November 17.
 -  “San Diego Latinas in Informal Economies - Persevering through COVID-19,” [Re]Emergence, [Re]imagination, [Re]vision, and Revolution - Virtual Interdisciplinary Feminist Conference, Pennsylvania State University. Virtual Conference. Moderator. February 25.
 
 **2021**
+
 -  “Reviewing, Engaging, and Institutionalizing Principles of Ethical and Effective Service,” National Service-Learning Conference. Virtual Conference. Presenter. April 14.
 
 **2020**
 -  “Reviewing, Engaging, and Institutionalizing Principles of Ethical and Effective Service,” Campus Compact, Seattle, WA. Presenter. March 30. (Conference canceled due to COVID-19 Pandemic)
 
 **2015**
+
 -  “Gendered Diaspora - Little Ethiopia,” Occidental College Undergraduate Research Conference, Occidental College, Los Angeles Presenter. July 29.
 
 ---
@@ -194,21 +202,25 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 ## Workshops & Student Presentations
 
 **2021**
+
 - “Engaging in Ethical & Effective Service in Ethiopia,” Ethiopian Diaspora Fellowship, Washington DC. October 31.
 - “Navigating Racial Equity Detours,” Haas Center for Public Service, Stanford University, Stanford, CA. April 3.
 - “Social Entrepreneurship & Social Impact Careers,” Social Entrepreneurial Students Association (SENSA), Haas Center for Public Service, Stanford University, Stanford, CA. March.
 - “Self-Care & Community Care Amidst COVID-19,” Social Impact Careers Fellowships, Haas Center for Public Service, Stanford University, Stanford, CA. January.
 
 **2020**
+
 - “Self-Care & Community Care Amidst COVID-19,” Public Service Student Leadership Program, Haas Center for Public Service, Stanford University, Stanford, CA. April.
 - “Engaging in Ethical & Effective Service” (15+ workshops) Public Service Student Leadership Program and Cardinal Quarter, Haas Center for Public Service, Stanford University, Stanford, CA.
 
 **2019**
+
 - “Engaging in Ethical & Effective Service” (5 workshops) Public Service Student Leadership Program and Cardinal Quarter, Haas Center for Public Service, Stanford University, Stanford, CA.
 - “Microaggressions - Mistaken Identity,” People of Color Affinity Group, Haas Center for Public Service, Stanford University, Stanford, CA. May.
 - “Storytelling for Social Justice,” People of Color Affinity Group,  Haas Center for Public Service, Stanford University, Stanford, CA. March.
 
 **2018**
+
 - “Digitally Mapping Selamta Family Project Households,” Selamta Family Project, Ethiopian Diaspora Fellowship, Addis Ababa, Ethiopia. January 11.
 
 ---
@@ -284,16 +296,19 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 ## Skills & Competencies
 
 **Research Methods**
+
 - Qualitative research, ethnography, archival research
 - Data analysis and visualization
 - GIS and spatial analysis
 
 **Technical Skills**
+
 - Programming: Python, R, JavaScript
 - Digital tools: ArcGIS, QGIS, Omeka, WordPress
 - Data management and curation
 
 **Languages**
+
 - English (Native)
 - Amharic (Fluent)
 
@@ -302,10 +317,12 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 ## Service & Leadership
 
 **Community Engagement**
+
 - Role description, Organization Name (Year - Present)
 - Another role, Organization Name (Year - Year)
 
 **Departmental Service**
+
 - Committee membership, Department Name (Year - Present)
 - Student organization role (Year - Year)
 
@@ -323,12 +340,15 @@ Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Informa
 ## Additional Information
 
 **Professional Development**
+
 - Certificate Program Name, Institution (Year)
 - Training Workshop Name, Organization (Year)
 
 **Languages of Research**
+
 - English,(native reading/writing/speaking)
 - Amharic (fluent speaking; intermediate reading/writing)
 
 **Hobbies & Interests**
+
 - Interest 1, Interest 2, Interest 3
