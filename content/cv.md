@@ -368,7 +368,7 @@ Description of this project and your role in it.
 
 **Technical Skills**
 
-- Programming: Python, R, JavaScript
+- Programming: Python, R, JavaScript, HTML, CSS, Jekyll
 - Digital tools: ArcGIS, QGIS, Omeka, WordPress
 - Data management and curation
 
