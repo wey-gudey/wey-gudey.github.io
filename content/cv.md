@@ -10,7 +10,7 @@
 
 **Full Name:** Eden Mekonen  
 **Languages:** English, Amharic  
-**Location:** Los Angeles, CA, USA; State College, PA, USA
+**Location:** Los Angeles, CA, USA State College, PA, USA
 **Email:** mekonen at psu dot edu
 
 ---
@@ -21,17 +21,17 @@
 *The Pennsylvania State University, State College, PA*  
 2021 - Present
 
-- Concentration in Justice, Ethics, and Diversity
-- Dissertation: ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals Within the Los Angeles and Orange County Diasporic Communities from Ethiopia
-- Advisors: Dr. Louisa Holmes and Dr. Maha Maraoun
+- **Concentration in Justice, Ethics, and Diversity Concentration**
+- **Dissertation:** ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals Within the Los Angeles and Orange County Diasporic Communities from Ethiopia
+- **Advisors:** Dr. Louisa Holmes and Dr. Maha Maraoun
 
 **Master of Science in Geography**  
 *The Pennsylvania State University, State College, PA*  
 2021 - 2023
 
-- Concentration in Justice, Ethics, and Diversity
-- Thesis: From Addis to Inglewood: Los Angeles County Placemaking Processes Among Diasporic Communities from Ethiopia
-- Advisors: Dr. Louisa Holmes and Dr. Kidane Mengisteab
+- **Justice, Ethics, and Diversity Concentration**
+- **Thesis:** From Addis to Inglewood: Los Angeles County Placemaking Processes Among Diasporic Communities from Ethiopia
+- **Advisors:** Dr. Louisa Holmes and Dr. Kidane Mengisteab
 
 **Bachelor of Arts in Critical Theory and Social Justice**  
 *Occidental College, Los Angeles, CA*  
