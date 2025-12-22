@@ -370,8 +370,8 @@ Description of this project and your role in it.
 
 **Technical Skills**
 
-- Programming: Python, R, JavaScript, HTML, CSS, Jekyll
-- Digital tools: ArcGIS, QGIS, Omeka, WordPress
+- Programming: Python, R, JavaScript, HTML, CSS, Jekyll, Markdown
+- Digital tools: ArcGIS, QGIS, Omeka, WordPress, Voyant, Flourish, Storymaps, Webscraper.io, TwoTone.io, Soundcite
 - Data management and curation
 
 **Languages**
@@ -393,9 +393,9 @@ Description of this project and your role in it.
 
 - Graduate Student Representative, African Studies Program, *The Pennsylvania State University* (2022 - 2023)
 - Member, Human Geography Working Group *The Pennsylvania State University* (2021 - Present)
-- Member,Supporting Women in Geography (SWIG), *The Pennsylvania State University* (2021 - Present)
+- Member, Supporting Women in Geography (SWIG), *The Pennsylvania State University* (2021 - Present)
 - Member, Penn State Pan-African Professional Alliance (Pan-APA), *The Pennsylvania State University* (2021 - Present)
-- Member, Black Staff Alliance, *Stanford University* (2028 - 2021)
+- Member, Black Staff Alliance, *Stanford University* (2020 - 2021)
 
 ---
 
