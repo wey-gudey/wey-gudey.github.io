@@ -25,7 +25,7 @@
 - **Dissertation:** ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals within Los Angeles and Orange County Diasporic Communities from Ethiopia
 - **Advisors:** Dr. Louisa Holmes and Dr. Maha Maraoun
 
-**Master of Science in Geography** 
+**Master of Science in Geography**  
 *The Pennsylvania State University, State College, PA, USA*  
 2021 - 2023
 
