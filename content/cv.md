@@ -116,7 +116,7 @@
 *Addis Ababa, Ethiopia*  
 2017 - 2018
 
-**Community Engagement Coordinator**
+**Community Engagement Coordinator**  
 *Las Fotos Project, AmeriCorps: Public Allies Los Angeles*  
 *Los Angeles, CA, USA*  
 2016 - 2017  
