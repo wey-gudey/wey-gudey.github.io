@@ -281,6 +281,8 @@ Description of this project and your role in it.
 
 ## Teaching and Advising Experience
 
+### Teaching Experience
+
 **Emancipation Black Freedom in the Making - Teaching Assistant**  
 *Occidental College*  
 2025
@@ -301,6 +303,7 @@ Description of this project and your role in it.
 *Stanford University*  
 2021
 
+### Advising Experience
 
 **Cardinal Careers Advisor**  
 *Stanford University*   
