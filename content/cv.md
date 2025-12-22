@@ -349,14 +349,13 @@ Description of this project and your role in it.
 
 ## Professional Memberships
 
-- Society of American Archivists (SAA)(2024 - Present)
-- American Studies Association (ASA)(2023 - Present)
-- African Studies Association (ASA)(2021 - Present)
-- African Feminism Initiative (AFI)(2021 - Present)
-- American Association of Geographers (AAG)(2021 - Present)
-- Black Alumni Organization of Occidental College (BAO)(2019 - Present)
-- African Diaspora Network (ADN)(2018 - Present)
-- Your Ethiopian Professionals (YEP)(2017 - Present)
+- Society of American Archivists (SAA) (2024 - Present)
+- American Studies Association (ASA) (2023 - Present)
+- African Studies Association (ASA) (2021 - Present)
+- African Feminism Initiative (AFI) (2021 - Present)
+- American Association of Geographers (AAG) (2021 - Present)
+- African Diaspora Network (ADN) (2018 - Present)
+- Your Ethiopian Professionals (YEP) (2017 - Present)
 - Campus Compact (2018 - 2021)
 
 ---
