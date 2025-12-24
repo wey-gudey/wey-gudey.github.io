@@ -89,6 +89,11 @@
 *based in Addis Ababa, Ethiopia*  
 2017 - 2018
 
+**Undergraduate Researcher**  
+*Occidental College*  
+*Los Angeles, CA, USA*  
+2015
+
 ### Public Service Professional Experience
 
 **Graduate Administrative Assistant, Technology and Operations**  
@@ -219,7 +224,7 @@ Description of this project and your role in it.
 
 **2025**
 
-- “From the (Digital) Archive to the College Classroom - The Colored Conventions Project Collaboration with Occidental College's First Year Writing Seminar, ‘Emancipation: Black Freedom in the Making.’” Society of American Archivists Conference, Society of American Archivists. Anaheim, CA. August 25.
+- “From the (Digital) Archive to the College Classroom - The Colored Conventions Project Collaboration with Occidental College's First Year Writing Seminar, ‘Emancipation: Black Freedom in the Making.’” Society of American Archivists Conference, Society of American Archivists. Anaheim, CA. Poster Presenter. August 25.
 - “Unsung Women of the Colored Conventions: Data [Re]Imagined.” Expanded Data, Critical Data Studio. Hamilton, Canada. Presenter. July 27.
 -  “What the NEH ODH has Inspired” Association of Computers and the Humanities. Virtual. Presenter. June 13.
 - “Colored Conventions Project as a Black Digital Humanities Praxis.” Digital Blackness - Collective Care, Community & Co-Creation Through the Colored Conventions Project, Douglass Day, and Carceral Algorithms. Association of Computers and the Humanities. Virtual. Presenter. June 11.
@@ -249,7 +254,7 @@ Description of this project and your role in it.
 
 **2015**
 
--  “Gendered Diaspora: Little Ethiopia,” Occidental College Undergraduate Research Conference, Occidental College, Los Angeles Presenter. July 29.
+-  “Gendered Diaspora: Little Ethiopia,” Occidental College Undergraduate Research Conference, Occidental College, Los Angeles. Presenter. July 29.
 
 ---
 
@@ -303,6 +308,10 @@ Description of this project and your role in it.
 *Stanford University*  
 2021
 
+**Emerson Fellowship: Transforming Dialogue Into Action - Teaching Assistant**  
+*Stanford University*  
+2018 - 2019
+
 ### Advising Experience
 
 **Cardinal Careers Advisor**  
@@ -312,10 +321,6 @@ Description of this project and your role in it.
 **Cardinal Quarter Advisor**  
 *Stanford University*  
 2019 - 2020
-
-**Emerson Fellowship: Transforming Dialogue Into Action - Teaching Assistant**  
-*Stanford University*  
-2018 - 2019
 
 **Writing Advisor**  
 *Occidental College*  
