@@ -42,9 +42,21 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Mental & Physical Health
 
-- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
-- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
-- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+- [African Communities Public Health Coalition: ACPHC](https://africancoalition.org/)
+- [Association of Black Women Physicians](https://www.blackwomenphysicians.org)
+- [Biya Belayneh Foundation (BBF) for Mental Health](https://www.bbfoundationmh.org/resources)
+- [Black Emotional and Mental Health Collective (BEAM)](https://beam.community/)
+- [Black Women for Wellness](https://bwwla.org/)
+- [Boris Lawrence Henson Foundation](https://borislhensonfoundation.org/programs/)
+- [California Black Women’s Health Project](https://www.cabwhp.org/)
+- [Didi Hirsch](https://didihirsch.org)
+- [Los Angeles County Department of Mental Health (LACDMH)](https://thelovelandfoundation.org/therapy-fund/)
+- [Loveland Foundation Therapy Fund](https://thelovelandfoundation.org/therapy-fund/)
+- [Open Path Collective](https://openpathcollective.org/)
+- [Program for Torture Victims (PTV)](https://www.ptvla.org/)
+- [Therapy for Black Girls](https://providers.therapyforblackgirls.com/?_ga=2.63854319.1792015727.1767710193-52336149.1767710193)
+- [Therapy for Black Men](https://www.therapyforblackmen.org/)
+- [WalkGoodLA](https://www.walkgoodla.org)
 
 ---
 
