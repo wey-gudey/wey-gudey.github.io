@@ -98,9 +98,13 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Labor
 
-- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
-- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
-- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+- [Black Worker Center](https://lablackworkercenter.org/)
+- [California Federation of Labor Unions](https://calaborfed.org/blog-roll-list/california-unions/)
+- [Garment Worker Center](https://garmentworkercenter.org)
+- [LA City Economic & Workforce Development Department](https://ewddla.com/)
+- [LA County Department of Consumer and Business Affairs](https://dcba.lacounty.gov)
+- [LA Worker Center Network](https://laworkercenternetwork.org)
+- [State of California Labor Commission Office - LA County Office](https://oia.lacounty.gov/wp-content/uploads/2019/01/12.12.18_LAJF-Service-Providers.pdf)
 
 ---
 
