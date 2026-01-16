@@ -16,7 +16,7 @@ I am doing this research to find out how Southern California-based community mem
 
 **What exactly will happen in this research project?**
 
-You will participate in a one-on-one interview (unless a translator is otherwise requested) for approximately 60 to 90 minutes. You are free NOT to answer any questions you prefer not to discuss.
+You will participate in a one-on-one interview (unless a translator is otherwise requested) for approximately 60 to 90 minutes. You are free **NOT** to answer any questions you prefer not to discuss.
 You may be contacted with brief follow-up questions via phone call or email.
 
 ----
@@ -41,10 +41,10 @@ One-on-one interviews will take place over Zoom, in Los Angeles or Orange County
 
 **Who is eligible to participate?**
 
-You can participate if you are ALL of the following:
+You can participate if you are **ALL** of the following:
 - An adult who is 18 or older
-- Live in Los Angeles County OR Orange County
-- Born in Ethiopia, OR have one parent who was born in Ethiopia
+- Live in Los Angeles County **OR** Orange County
+- Born in Ethiopia, **OR** have one parent who was born in Ethiopia
 
 ----
 
