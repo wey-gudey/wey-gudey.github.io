@@ -9,51 +9,48 @@ If you are interested in participating, please fill out [this survey](https://pe
 ## Frequently Asked Questions (FAQ)
 
 **Why are you doing this research project?** 
-
 I am doing this research to find out how Southern California-based community members from Ethiopia remember those who have passed away.
 
 ---
 
-**Date:** June 2023 - December 2023
+**What exactly will happen in this research project?**
+You will participate in a one-on-one interview (unless a translator is otherwise requested) for approximately 60 to 90 minutes. You are free NOT to answer any questions you prefer not to discuss.
+You may be contacted with brief follow-up questions via phone call or email.
 
-![Project 2 Screenshot](./images/project2.jpg)
+**What are the possible benefits of the research project?**
+The results of this research may provide a greater understanding of the issues, concerns, and/or needs of East African immigrant communities.
 
-Description of your second project. Include the context, your role, and the impact or results achieved. Add your own project images to showcase your work.
 
-**Technologies:** JavaScript, Node.js, MongoDB
+**How long will the interview last?**
+1 to 1.5 hours
 
-**Highlights:**
-- Achievement 1
-- Achievement 2
-- Achievement 3
+**Where will these interviews take place?**
+One-on-one interviews will take place over Zoom, in Los Angeles or Orange County (subject to health and safety measures), and at a time and location that suits your comfort level.
 
-![Project 2 Dashboard](./images/project2-dashboard.jpg)
+**Who is eligible to participate?**
+You can participate if you are ALL of the following:
+- An adult who is 18 or older
+- Live in Los Angeles County OR Orange County
+- Born in Ethiopia, OR have one parent who was born in Ethiopia
 
-[View Project →](https://github.com/yourusername/project2)
+**What language(s) will these interviews be conducted in?**
+You can choose to have the interview in either English or Amharic.
 
----
+**How will this information be stored?**
 
-## Project Title 3
+**How long will this information be stored?**
 
-**Date:** March 2023 - May 2023
+**Who will have access to this information?**
 
-![Project 3 Screenshot](./images/project3.jpg)
+**Who is funding this research project?**
+Funding for this project comes from Penn State’s Dickerson Family Fund. 
 
-Description of your third project. Highlight challenges overcome and what you learned from this experience.
-
-**Technologies:** Java, Spring Boot, MySQL
-
-**Challenges & Solutions:**
-- Challenge 1 and how you solved it
-- Challenge 2 and your approach
-- What you learned
-
-[View Project →](https://github.com/yourusername/project3)
-
----
-
-## Smaller Projects & Experiments
-
-- **Mini Project 1** - Brief description ([link](https://github.com/yourusername/mini1))
-- **Mini Project 2** - Brief description ([link](https://github.com/yourusername/mini2))
-- **Experiment 1** - Brief description ([link](https://github.com/yourusername/experiment1))
+**Who should I contact if I have any questions or concerns about this research project?**
+Please email the head of the research project (principal investigator), Eden Mekonen, at [mekonen@psu.edu](mekonen@psu.edu) if you:
+- Have questions, complaints, or concerns about the research.
+- Believe you may have been harmed by being part of the research project. 
+ 
+You may also contact the Penn State Human Research Protection Program (HRPP) at (814) 865-1775 or visit the HRPP website at [https://www.research.psu.edu/irb/participants](https://www.research.psu.edu/irb/participants) if you:
+- Have questions or want information about your rights as a person in a research project.
+- Have concerns, complaints, or general questions about the research.
+- You may also call this number if you cannot reach the research team or wish to offer input or to talk to someone else about any concerns related to the research.
