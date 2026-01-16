@@ -70,9 +70,11 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Text/Phone Lines
 
-- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
-- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
-- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+- LA County Domestic Violence Hotline  – Call (800) 978-3600
+- National Alliance on Mental Illness (NAMI) Crisis Text Line – Text NAMI to 741-741
+- National Suicide Prevention Lifeline – Call 800-273-TALK (8255)
+- Substance Abuse and Mental Health Services Association (SAMHSA) Disaster Distress Helpline – Call 1-800-985-5990
+- Steve Fund Crisis Text Line  – Text “STEVE” to 741741
 
 ---
 
