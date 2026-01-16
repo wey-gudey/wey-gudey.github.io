@@ -88,9 +88,11 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Food
 
-- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
-- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
-- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+- [Episcopal Diocese of Los Angeles Food Assistance Resources](https://diocesela.org/food-banks-pantries/)
+- [LA Community Fridges](https://www.lacommunityfridges.com/)
+- [LA County Food Banks](https://file.lacounty.gov/SDSInter/dmh/219900_FOODBANKRESOURCESasof9-30-14.pdf)
+- [LA Regional Food Banks](https://www.lafoodbank.org/find-food/pantry-locator/)
+
 
 ---
 
