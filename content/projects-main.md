@@ -12,7 +12,7 @@ If you are interested in participating, please fill out [this survey](https://pe
 
 I am doing this research to find out how Southern California-based community members from Ethiopia remember those who have passed away.
 
-
+----
 
 **What exactly will happen in this research project?**
 
