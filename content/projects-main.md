@@ -6,30 +6,13 @@ If you are interested in participating, please fill out [this survey](https://pe
 
 ---
 
-## Project Title 1
+## Frequently Asked Questions (FAQ)
 
-**Date:** January 2024 - Present
+**Why are you doing this research project?** 
 
-![Project 1 Screenshot](./images/project1.jpg)
-
-Description of your first project. Explain what it does, the problem it solves, and the technologies used. Replace the image above with your actual project screenshot.
-
-**Technologies:** Python, React, PostgreSQL
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Screenshots:**
-
-![Project 1 Detail View](./images/project1-detail.jpg)
-
-[View Project →](https://github.com/yourusername/project1)
+I am doing this research to find out how Southern California-based community members from Ethiopia remember those who have passed away.
 
 ---
-
-## Project Title 2
 
 **Date:** June 2023 - December 2023
 
