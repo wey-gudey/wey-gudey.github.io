@@ -16,7 +16,7 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 - [African Communities Together](https://africans.us/)
 - [Bet Tzedek](https://bettzedek.org)
 - [Black Alliance for Just Immigration (BAJI)](https://baji.org/)
- -- [BAJI Immigration Referrals](https://bajiactionfund.org/wp-content/uploads/2025/09/BAJI-LA-Legal-Referrals-2025.pdf)
+ - [BAJI Immigration Referrals](https://bajiactionfund.org/wp-content/uploads/2025/09/BAJI-LA-Legal-Referrals-2025.pdf)
 - [Black LGBTQIA+ Migrant Project (BLMP)](https://transgenderlawcenter.org/programs/blmp/)
 - [Central American Resource Center (CARECEN)](https://www.carecen-la.org/legal_services)
 - [Coalition for Human Immigrants Rights Los Angeles (CHIRLA)](https://www.chirla.org/)
