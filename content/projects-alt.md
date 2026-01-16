@@ -62,18 +62,18 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Death & Grief Support
 
-[American Foundation for Suicide Prevention - Greater LA and Central Coast Branch](https://afsp.org/chapter/greater-los-angeles-and-central-coast)
-[California Hospice and Palliative Care Association (CHAPAS)](https://www.calhospice.org/find-a-grief-support-group)
-[211 LA County Bereavement Resources](https://211la.org/resources/search?keyword=bereavement)
-[The Dinner Party](https://www.thedinnerparty.org/)
-[Dougy Center (National Center for Grieving Children & Families)](https://www.dougy.org/program-finder)
-[Grief and Loss Toolkit](https://www.griefandloss.tools/)
-[National Alliance for Grieving Children](https://nacg.org/?srsltid=AfmBOoo8gsCILoUmUJEuZ14C4nDVlUBgxW6270tj2u3-s2F6m2cPLI7b)
-[Our House Grief Support Center (Los Angeles)](https://www.ourhouse-grief.org/)
-[Pause](https://www.timetopause.org/)
-[Postal Service for the Dead](https://www.postalserviceforthedead.com/)
-[Southern California Hospice Foundation](https://socalhospicefoundation.org/programs/)
-[The Village Family Services (Los Angeles)](http://www.thevillagefs.org)
+- [211 LA County Bereavement Resources](https://211la.org/resources/search?keyword=bereavement)
+- [American Foundation for Suicide Prevention - Greater LA and Central Coast Branch](https://afsp.org/chapter/greater-los-angeles-and-central-coast)
+- [California Hospice and Palliative Care Association (CHAPAS)](https://www.calhospice.org/find-a-grief-support-group)
+- [The Dinner Party](https://www.thedinnerparty.org/)
+- [Dougy Center (National Center for Grieving Children & Families)](https://www.dougy.org/program-finder)
+- [Grief and Loss Toolkit](https://www.griefandloss.tools/)
+- [National Alliance for Grieving Children](https://nacg.org/?srsltid=AfmBOoo8gsCILoUmUJEuZ14C4nDVlUBgxW6270tj2u3-s2F6m2cPLI7b)
+- [Our House Grief Support Center (Los Angeles)](https://www.ourhouse-grief.org/)
+- [Pause](https://www.timetopause.org/)
+- [Postal Service for the Dead](https://www.postalserviceforthedead.com/)
+- [Southern California Hospice Foundation](https://socalhospicefoundation.org/programs/)
+- [The Village Family Services (Los Angeles)](http://www.thevillagefs.org)
 
 ---
 
