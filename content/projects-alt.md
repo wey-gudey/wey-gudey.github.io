@@ -9,32 +9,26 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 - [African Communities Together - Videos](https://africans.us/kyr)
 - [BAJI KYR - Cards](https://bajiactionfund.org/wegotus/)
 
-**Capturas de Pantalla:**
-
-![Vista Detallada del Proyecto 1](./images/project1-detail.jpg)
-
-[Ver Proyecto →](https://github.com/tuusuario/proyecto1)
-
 ---
 
 ## Immigration & Legal Support
 
-**Fecha:** Junio 2023 - Diciembre 2023
-
-![Captura del Proyecto 2](./images/project2.jpg)
-
-Descripción de tu segundo proyecto. Incluye el contexto, tu rol y el impacto o resultados logrados. Añade tus propias imágenes para mostrar tu trabajo.
-
-**Tecnologías:** JavaScript, Node.js, MongoDB
-
-**Aspectos Destacados:**
-- Logro 1
-- Logro 2
-- Logro 3
-
-![Panel de Control del Proyecto 2](./images/project2-dashboard.jpg)
-
-[Ver Proyecto →](https://github.com/tuusuario/proyecto2)
+- [African Communities Together](https://africans.us/)
+- [Bet Tzedek](https://bettzedek.org)
+- [Black Alliance for Just Immigration (BAJI)](https://baji.org/)
+ -- [BAJI Immigration Referrals](https://bajiactionfund.org/wp-content/uploads/2025/09/BAJI-LA-Legal-Referrals-2025.pdf)
+- [Black LGBTQIA+ Migrant Project (BLMP)](https://transgenderlawcenter.org/programs/blmp/)
+- [Central American Resource Center (CARECEN)](https://www.carecen-la.org/legal_services)
+- [Coalition for Human Immigrants Rights Los Angeles (CHIRLA)](https://www.chirla.org/)
+- [Esperanza Immigrant Rights Project](http://www.esperanza-la.org)
+- [Inner City Law Center](https://innercitylaw.org)
+- [Legal Aid Foundation of Los Angeles](https://lafla.org/)
+- [Mental Health Advocacy Services](https://www.mhas-la.org)
+- [Basta](https://www.basta.org)
+- [Neighborhood Legal Services of LA County](https://nlsla.org)
+- [Public Counsel](https://innercitylaw.org)
+- [Undocublack Network](https://undocublack.org/)
+- [Union Del Barrio](https://uniondelbarrio.org/main/4-2/about-udb/)
 
 ---
 
