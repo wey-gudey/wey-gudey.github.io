@@ -1,10 +1,10 @@
-# Mis Proyectos
+# Community Resource Guide
 
-Una colección de proyectos en los que he trabajado, mostrando mis habilidades e intereses.
+A collection of resources, organizations, governement agencies, nonprofits serving Los Angeles County.
 
 ---
 
-## Título del Proyecto 1
+## Know Your Rights
 
 **Fecha:** Enero 2024 - Presente
 
@@ -27,7 +27,7 @@ Descripción de tu primer proyecto. Explica qué hace, el problema que resuelve 
 
 ---
 
-## Título del Proyecto 2
+## Immigration & Legal Support
 
 **Fecha:** Junio 2023 - Diciembre 2023
 
@@ -48,7 +48,7 @@ Descripción de tu segundo proyecto. Incluye el contexto, tu rol y el impacto o 
 
 ---
 
-## Título del Proyecto 3
+## Faith-Based Organizations
 
 **Fecha:** Marzo 2023 - Mayo 2023
 
@@ -67,7 +67,63 @@ Descripción de tu tercer proyecto. Destaca los desafíos superados y lo que apr
 
 ---
 
-## Proyectos Pequeños y Experimentos
+## Mental & Physical Health
+
+- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
+- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
+- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+
+---
+
+## Death & Grief Support
+
+- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
+- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
+- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+
+---
+
+## Text/Phone Lines
+
+- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
+- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
+- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+
+---
+
+## Housing
+
+- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
+- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
+- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+
+---
+
+## Food
+
+- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
+- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
+- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+
+---
+
+## Labor
+
+- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
+- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
+- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+
+---
+
+## Social Care
+
+- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
+- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
+- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+
+---
+
+## Disability
 
 - **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
 - **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
