@@ -6,18 +6,8 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Know Your Rights
 
-**Fecha:** Enero 2024 - Presente
-
-![Captura del Proyecto 1](./images/project1.jpg)
-
-Descripción de tu primer proyecto. Explica qué hace, el problema que resuelve y las tecnologías utilizadas. Reemplaza la imagen con capturas reales de tu proyecto.
-
-**Tecnologías:** Python, React, PostgreSQL
-
-**Características Principales:**
-- Característica 1
-- Característica 2
-- Característica 3
+- African Communities Together - Videos (https://africans.us/kyr)
+- BAJI KYR - Cards (https://bajiactionfund.org/wegotus/)
 
 **Capturas de Pantalla:**
 
