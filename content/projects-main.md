@@ -2,7 +2,7 @@
 
 ትዝታ (Tizita) Diaspora is a Penn State Geography and African Studies dual-title PhD dissertation exploring how Los Angeles County and Orange County community members from Ethiopia remember and honor loved ones who have passed away. This project examines how funerary practices shape how community members “show up” for one another and offer mutual aid/service in times of grief and bereavement, through collective funerary insurance programs such as እድር (idir). In other words, this project studies how relationships and cultural practices provide social and economic support to community members, while also shaping their sense of belonging within the local Southern California region. Through interviews with 1st, 2nd, and 1.5-generation individuals from Ethiopia, this project highlights the intergenerational communal spirit of Horn of Africa diasporic communities.
 
-**If you are interested in participating, please fill out [this survey](https://pennstate.yul1.qualtrics.com/survey-builder/SV_ehuuemOE0Dt7zOC/edit) to indicate your interest in the project.**
+**If you would like to participate in an interview for this project, please fill out [this survey](https://pennstate.yul1.qualtrics.com/survey-builder/SV_ehuuemOE0Dt7zOC/edit) to indicate your interest.**
 
 ---
 
