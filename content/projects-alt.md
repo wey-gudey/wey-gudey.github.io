@@ -34,20 +34,9 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Faith-Based Organizations
 
-**Fecha:** Marzo 2023 - Mayo 2023
-
-![Captura del Proyecto 3](./images/project3.jpg)
-
-Descripción de tu tercer proyecto. Destaca los desafíos superados y lo que aprendiste de esta experiencia.
-
-**Tecnologías:** Java, Spring Boot, MySQL
-
-**Desafíos y Soluciones:**
-- Desafío 1 y cómo lo resolviste
-- Desafío 2 y tu enfoque
-- Lo que aprendiste
-
-[Ver Proyecto →](https://github.com/tuusuario/proyecto3)
+- [Catholic Charities of Los Angeles](https://catholiccharitiesla.org/immigration-services/)
+- [Council on American-Islamic Relations (CAIR)](https://ca.cair.com/losangeles/?utm_source=google&utm_medium=cpc&utm_campaign=BGA_GA_BRS00_Evergreen_Search&gad_source=1&gad_campaignid=20875014120&gbraid=0AAAAAohFkNcaBF_sgjXD1X7Q6YveS0Xls&gclid=CjwKCAiA3-3KBhBiEiwA2x7FdOMjRM5nIqfcWs5PNWPVPSqUeCUA2Fd7Lk7zaMfz8HXQfoKqp_bzARoCJfAQAvD_BwE)
+- [Interfaith Refugee & Immigration Service](https://www.iris-la.org/services)
 
 ---
 
