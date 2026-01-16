@@ -9,41 +9,68 @@ If you are interested in participating, please fill out [this survey](https://pe
 ## Frequently Asked Questions (FAQ)
 
 **Why are you doing this research project?** 
+
 I am doing this research to find out how Southern California-based community members from Ethiopia remember those who have passed away.
 
----
+--
 
 **What exactly will happen in this research project?**
+
 You will participate in a one-on-one interview (unless a translator is otherwise requested) for approximately 60 to 90 minutes. You are free NOT to answer any questions you prefer not to discuss.
 You may be contacted with brief follow-up questions via phone call or email.
 
+--
+
 **What are the possible benefits of the research project?**
+
 The results of this research may provide a greater understanding of the issues, concerns, and/or needs of East African immigrant communities.
 
+--
 
 **How long will the interview last?**
+
 1 to 1.5 hours
 
+--
+
 **Where will these interviews take place?**
+
 One-on-one interviews will take place over Zoom, in Los Angeles or Orange County (subject to health and safety measures), and at a time and location that suits your comfort level.
 
+--
+
 **Who is eligible to participate?**
+
 You can participate if you are ALL of the following:
 - An adult who is 18 or older
 - Live in Los Angeles County OR Orange County
 - Born in Ethiopia, OR have one parent who was born in Ethiopia
 
+--
+
 **What language(s) will these interviews be conducted in?**
+
 You can choose to have the interview in either English or Amharic.
+
+--
 
 **How will this information be stored?**
 
+--
+
 **How long will this information be stored?**
+
+--
 
 **Who will have access to this information?**
 
+--
+
 **Who is funding this research project?**
-Funding for this project comes from Penn State’s Dickerson Family Fund. 
+
+Funding for this project comes from [Penn State’s Dickerson Family Fund](https://africanstudies.la.psu.edu/graduate/graduate-scholarships/). 
+
+--
 
 **Who should I contact if I have any questions or concerns about this research project?**
 Please email the head of the research project (principal investigator), Eden Mekonen, at [mekonen@psu.edu](mekonen@psu.edu) if you:
