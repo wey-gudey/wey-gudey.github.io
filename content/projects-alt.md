@@ -6,8 +6,8 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Know Your Rights
 
-- African Communities Together - Videos (https://africans.us/kyr)
-- BAJI KYR - Cards (https://bajiactionfund.org/wegotus/)
+- [African Communities Together - Videos] (https://africans.us/kyr)
+- [BAJI KYR - Cards] (https://bajiactionfund.org/wegotus/)
 
 **Capturas de Pantalla:**
 
