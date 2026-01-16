@@ -80,9 +80,13 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Housing
 
-- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
-- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
-- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+- [LA Tenants Union](https://latenantsunion.org/en/)
+- [Housing Authority of the City of Los Angeles (HACLA)](https://www.hacla.org/en)
+- [LA City Department of Housing](https://housing.lacity.gov/housing/housing-programs)
+- [LA County Development Authority](https://www.lacda.org/home)
+- [LA County Homeless Services and Housing](https://homeless.lacounty.gov)
+- [My Housing Search](https://housing.lacounty.gov)
+- [Strategic Action for Just Economy (SAJE)](https://www.saje.net/)
 
 ---
 
