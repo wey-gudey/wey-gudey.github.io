@@ -42,6 +42,7 @@ One-on-one interviews will take place over Zoom, in Los Angeles or Orange County
 **Who is eligible to participate?**
 
 You can participate if you are **ALL** of the following:
+
 - An adult who is 18 or older
 - Live in Los Angeles County **OR** Orange County
 - Born in Ethiopia, **OR** have one parent who was born in Ethiopia
@@ -75,10 +76,12 @@ Funding for this project comes from [Penn State’s Dickerson Family Fund](https
 **Who should I contact if I have any questions or concerns about this research project?**
 
 Please email the head of the research project (principal investigator), Eden Mekonen, at [mekonen@psu.edu](mekonen@psu.edu) if you:
+
 - Have questions, complaints, or concerns about the research.
 - Believe you may have been harmed by being part of the research project. 
  
 You may also contact the Penn State Human Research Protection Program (HRPP) at (814) 865-1775 or visit the HRPP website at [https://www.research.psu.edu/irb/participants](https://www.research.psu.edu/irb/participants) if you:
+
 - Have questions or want information about your rights as a person in a research project.
 - Have concerns, complaints, or general questions about the research.
 - You may also call this number if you cannot reach the research team or wish to offer input or to talk to someone else about any concerns related to the research.
