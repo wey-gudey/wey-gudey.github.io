@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Curriculum Vitae✨
 
 <div style="text-align: center; margin: 2rem 0;">
   <a href="./cv.pdf" download class="download-button">📄 Download PDF Version</a>
