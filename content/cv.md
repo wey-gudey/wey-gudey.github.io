@@ -10,7 +10,7 @@
 
 **Full Name:** Eden Mekonen  
 **Languages:** English, Amharic  
-**Location:** Los Angeles, CA, USA; State College, PA, USA
+**Location:** Los Angeles, CA, USA; State College, PA, USA  
 **Email:** mekonen at psu dot edu
 
 ---
