@@ -1,4 +1,4 @@
-# Community Resource Guide
+# Community Resource Guide✨
 
 A collection of resources, organizations, governement agencies, nonprofits serving Los Angeles County.
 
