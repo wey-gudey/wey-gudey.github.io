@@ -36,18 +36,18 @@ jobs:
           cp about.html _site/index.html
           
           # Convert projects (main language)
-          pandoc content/projects-main.md -o _site/projects-main.html \
+          pandoc content/tizita-diaspora.md -o _site/tizita-diasproa.html \
             --from markdown+raw_html \
             --template=./template.html \
-            --metadata title="Projects" \
-            --metadata page="projects-main"
+            --metadata title="Tizita Diaspora" \
+            --metadata page="tizita-diaspora"
           
           # Convert projects (alternative language)
-          pandoc content/projects-alt.md -o _site/projects-alt.html \
+          pandoc content/community-resources.md -o _site/community-resources.html \
             --from markdown+raw_html \
             --template=./template.html \
-            --metadata title="Projects" \
-            --metadata page="projects-alt"
+            --metadata title="Community Resources" \
+            --metadata page="community-resources"
           
           # Convert CV
           pandoc content/cv.md -o _site/cv.html \
