@@ -36,7 +36,7 @@ jobs:
           cp about.html _site/index.html
           
           # Convert projects (main language)
-          pandoc content/tizita-diaspora.md -o _site/tizita-diasproa.html \
+          pandoc content/tizita-diaspora.md -o _site/tizita-diaspora.html \
             --from markdown+raw_html \
             --template=./template.html \
             --metadata title="Tizita Diaspora" \
