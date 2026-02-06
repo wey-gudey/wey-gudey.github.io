@@ -21,7 +21,7 @@
 *The Pennsylvania State University, State College, PA, USA*  
 2021 - Present
 
-- *Concentration in Justice, Ethics, and Diversity Concentration*
+- *Concentration in Justice, Ethics, and Diversity*
 - **Dissertation:** ትዝታ ዲያስፖራ ። Funerary and Memorialization Rituals within Los Angeles and Orange County Diasporic Communities from Ethiopia
 - **Advisors:** Dr. Louisa Holmes and Dr. Maha Maraoun
 
@@ -169,6 +169,10 @@ Description of this project and your role in it.
 
 ## Grants and Awards
 
+**2026**
+
+- DHSI Scholarship, Digital Humanities Summer Institute
+
 **2025**
 
 - Dickerson Fellowship, The Pennsylvania State University
@@ -200,6 +204,7 @@ Description of this project and your role in it.
 
 ## Publications
 
+-  Howard, J.H., Alexander, J.-J., Jordan, R., Mekonen, E., Noonan, S., Saylor, P. (forthcoming)"Applying Care Frameworks in the Digital Humanities: Autoethnographies from a Collaborative Cohort." Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH).
 - Mekonen, E. and Casey, J. (2025). “CUNY Distance Learning Archive (CDLA).” In Reviews in DH. [https://reviewsindh.pubpub.org/pub/cuny-distance-learning-archive/release/1.](https://reviewsindh.pubpub.org/pub/cuny-distance-learning-archive/release/1.).
 - Contributor, Haas Center for Public Service. (2019). Principles of Ethical and Effective Service. Retrieved from [https://haas.stanford.edu/about/our-approach/principles-ethical-and-effective-service](https://haas.stanford.edu/about/our-approach/principles-ethical-and-effective-service).
 - Mekonen, E. (2018). “Arts in Addis.” Ethiopian Diaspora Fellowship. Retrieved from [http://ethiopiandiasporafellowship.org/2018/02/09/arts-in-addis/](http://ethiopiandiasporafellowship.org/2018/02/09/arts-in-addis/).
@@ -211,7 +216,6 @@ Description of this project and your role in it.
 ### Invited Talks
 
 **2021**
-
 - “Commemorative Justice and the Necessity of Preserving Black Life,” Institute for the Study of Los Angeles, Occidental College, Los Angeles, CA. Panel Organizer. February 17.
 - “Archiving One’s Sacred Purpose in Higher Education,” Sociocultural Foundations of Education, Education Program. Occidental College, Los Angeles, CA. Presenter with Aaliyah Davis. April 6.
 - “Community Archiving & Storytelling as Liberation,” Multicultural Summer Institute, Occidental College, Los Angeles, CA. Presenter with Aaliyah Davis. March 15.
@@ -220,7 +224,7 @@ Description of this project and your role in it.
 
 **2026**
 
-- “Black Digital Recovery: The Colored Conventions Project Partnership with Occidental College's First Year Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Information Futures Symposium. Seattle, WA. February 21.
+- “Black Digital Recovery: The Colored Conventions Project Partnership with Occidental College's First Year Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Information Futures Symposium. Seattle, WA. February 22.
 
 **2025**
 
