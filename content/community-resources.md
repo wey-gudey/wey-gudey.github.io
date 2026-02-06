@@ -54,6 +54,8 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 - [Loveland Foundation Therapy Fund](https://thelovelandfoundation.org/therapy-fund/)
 - [Open Path Collective](https://openpathcollective.org/)
 - [Program for Torture Victims (PTV)](https://www.ptvla.org/)
+- [Relational Center](https://www.relationalcenter.org/)
+- [Rest for Resistance](https://restforresistance.com/)
 - [Therapy for Black Girls](https://providers.therapyforblackgirls.com/?_ga=2.63854319.1792015727.1767710193-52336149.1767710193)
 - [Therapy for Black Men](https://www.therapyforblackmen.org/)
 - [WalkGoodLA](https://www.walkgoodla.org)
@@ -134,6 +136,8 @@ A collection of resources, organizations, governement agencies, nonprofits servi
 
 ## Disability
 
-- **Mini Proyecto 1** - Breve descripción ([enlace](https://github.com/tuusuario/mini1))
-- **Mini Proyecto 2** - Breve descripción ([enlace](https://github.com/tuusuario/mini2))
-- **Experimento 1** - Breve descripción ([enlace](https://github.com/tuusuario/experimento1))
+- [Fireweed Project](https://www.fireweedproject.ca/)
+- [Los Angeles Spoonie Collective](https://www.spooniecollective.org/)
+- [Mask Block LA](https://www.instagram.com/maskblocla/?hl=en)
+- [Sins Invalid](https://sinsinvalid.org/)
+- [Wildflower Alliance](https://wildfloweralliance.org/)
