@@ -204,7 +204,7 @@ Description of this project and your role in it.
 
 ## Publications
 
--  Howard, J.H., Alexander, J.-J., Jordan, R., Mekonen, E., Noonan, S., Saylor, P. (forthcoming)"Applying Care Frameworks in the Digital Humanities: Autoethnographies from a Collaborative Cohort." Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH).
+-  Howard, J.H., Alexander, J.-J., Jordan, R., Mekonen, E., Noonan, S., Saylor, P. (Forthcoming). "Applying Care Frameworks in the Digital Humanities: Autoethnographies from a Collaborative Cohort." Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH).
 - Mekonen, E. and Casey, J. (2025). “CUNY Distance Learning Archive (CDLA).” In Reviews in DH. [https://reviewsindh.pubpub.org/pub/cuny-distance-learning-archive/release/1.](https://reviewsindh.pubpub.org/pub/cuny-distance-learning-archive/release/1.).
 - Contributor, Haas Center for Public Service. (2019). Principles of Ethical and Effective Service. Retrieved from [https://haas.stanford.edu/about/our-approach/principles-ethical-and-effective-service](https://haas.stanford.edu/about/our-approach/principles-ethical-and-effective-service).
 - Mekonen, E. (2018). “Arts in Addis.” Ethiopian Diaspora Fellowship. Retrieved from [http://ethiopiandiasporafellowship.org/2018/02/09/arts-in-addis/](http://ethiopiandiasporafellowship.org/2018/02/09/arts-in-addis/).
