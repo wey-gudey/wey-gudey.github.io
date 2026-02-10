@@ -29,7 +29,7 @@
 *The Pennsylvania State University, State College, PA, USA*  
 2021 - 2023
 
-- *Justice, Ethics, and Diversity Concentration*
+- *Concentration in Justice, Ethics, and Diversity*
 - **Thesis:** From Addis to Inglewood: Los Angeles County Placemaking Processes Among Diasporic Communities from Ethiopia
 - **Advisors:** Dr. Louisa Holmes and Dr. Kidane Mengisteab
 
