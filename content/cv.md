@@ -271,6 +271,12 @@ Description of this project and your role in it.
 
 - “Cataloging and Colored Conventions Digital Files," Center for Black Digital Research, Pennsylvania State University. Hybrid. September 26.
 
+- “Cataloging and Colored Conventions Digital Files," Center for Black Digital Research, Pennsylvania State University. Hybrid. May 17.
+
+**2023**
+
+-  “Cataloging and Colored Conventions Digital Files," Center for Black Digital Research, Pennsylvania State University. Hybrid. November 14.
+ 
 **2021**
 
 - “Engaging in Ethical & Effective Service in Ethiopia,” Ethiopian Diaspora Fellowship, Washington DC. October 31.
