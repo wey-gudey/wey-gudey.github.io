@@ -216,6 +216,7 @@ Description of this project and your role in it.
 ### Invited Talks
 
 **2021**
+
 - “Commemorative Justice and the Necessity of Preserving Black Life,” Institute for the Study of Los Angeles, Occidental College, Los Angeles, CA. Panel Organizer. February 17.
 - “Archiving One’s Sacred Purpose in Higher Education,” Sociocultural Foundations of Education, Education Program. Occidental College, Los Angeles, CA. Presenter with Aaliyah Davis. April 6.
 - “Community Archiving & Storytelling as Liberation,” Multicultural Summer Institute, Occidental College, Los Angeles, CA. Presenter with Aaliyah Davis. March 15.
@@ -224,7 +225,7 @@ Description of this project and your role in it.
 
 **2026**
 
-- “Black Digital Recovery: The Colored Conventions Project Partnership with Occidental College's First Year Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Information Futures Symposium. Seattle, WA. February 22.
+- “Black Digital Recovery: The Colored Conventions Project Partnership with Occidental College's First Year Writing Seminar, "Emancipation: Black Freedom in the Making.’” Black Information Futures Symposium. Seattle, WA. February 21.
 
 **2025**
 
@@ -263,6 +264,12 @@ Description of this project and your role in it.
 ---
 
 ## Workshops & Student Presentations
+
+**2024**
+
+- “Cataloging and Colored Conventions Digital Files," Center for Black Digital Research, Pennsylvania State University. Hybrid. October 8.
+
+- “Cataloging and Colored Conventions Digital Files," Center for Black Digital Research, Pennsylvania State University. Hybrid. September 26.
 
 **2021**
 
