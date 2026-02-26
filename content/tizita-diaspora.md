@@ -55,18 +55,6 @@ You can choose to have the interview in either English or Amharic.
 
 ----
 
-**How will this information be stored?**
-
-----
-
-**How long will this information be stored?**
-
-----
-
-**Who will have access to this information?**
-
-----
-
 **Who is funding this research project?**
 
 Funding for this project comes from [Penn State’s Dickerson Family Fund](https://africanstudies.la.psu.edu/graduate/graduate-scholarships/). 
