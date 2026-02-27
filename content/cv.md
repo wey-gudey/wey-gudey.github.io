@@ -11,7 +11,7 @@
 **Full Name:** Eden Mekonen  
 **Languages:** English, Amharic  
 **Location:** Los Angeles, CA, USA; State College, PA, USA  
-**Email:** mekonen at psu dot edu
+**Email:** mekonen@psu.edu
 
 ---
 
@@ -55,17 +55,14 @@
 *State College, PA, USA*  
 2022 - Present
 
-- Key responsibility or achievement 1
-- Key responsibility or achievement 2
-- Key responsibility or achievement 3
+- 
 
 **Community Engagement, Douglass Day**  
 *Center for Black Digital Research, The Pennsylvania State University*  
 *State College, PA, USA*  
 2022 - Present
 
-- Key responsibility or achievement 1
-- Key responsibility or achievement 2
+- 
 
 **Mentor, Digital Ethnic Futures Consortium (DEFCon) Teaching Fellowship**  
 *Remote*  
